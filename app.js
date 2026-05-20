@@ -16,8 +16,7 @@ const copy = {
     siteName: "國立東華大學科學教育研究所",
     siteSubname: "科學教育碩士班／博士班",
     language: "語言",
-    updated: "資料檢核日期：2026-05-21",
-    source: "來源",
+    updated: "更新日期：2026-05-21",
     readMore: "查看網頁",
     footer: "",
     nav: {
@@ -32,15 +31,15 @@ const copy = {
       events: "學會活動紀錄"
     },
     intros: {
-      home: "整理科學教育碩士班／博士班的主要資訊，供考生、學生、校友與合作單位查閱。",
-      news: "收錄目前可查到的招生、研討會與科普活動消息，保留日期與類別。",
+      home: "提供科學教育碩士班／博士班主要資訊，供考生、學生、校友與合作單位查閱。",
+      news: "公告招生、研討會與科普活動消息，依日期與類別呈現。",
       admissions: "集中顯示碩士班、博士班、甄試、考試與五年修讀資訊，便於招生季快速更新。",
-      faculty: "以公開系網與論文資料建立專任師資、歷任指導師資與退休師資摘要。",
-      students: "在尊重個資的前提下整理學生資源、在學身份類型與公開校友紀錄。",
-      features: "整理沿革、教育目標、研究方向與所友資料。",
-      curriculum: "連到教務處課規系統與課程地圖，並依主題呈現課程架構。",
-      downloads: "把規章、表單、獎助與場地借用等文件入口整理成下載區。",
-      events: "整理科普列車、全民科學週與城市科學節活動紀錄。"
+      faculty: "呈現專任師資、退休師資與歷任指導師資之研究專長與論文指導紀錄。",
+      students: "提供學生資源、在學身分類型與所友論文紀錄。",
+      features: "介紹沿革、教育目標、研究方向與所友網絡。",
+      curriculum: "呈現修業要點、課程地圖、課表與課程主題。",
+      downloads: "提供規章、表單、獎助與場地借用文件。",
+      events: "收錄科普列車、全民科學週與城市科學節活動紀錄。"
     },
     labels: {
       overview: "摘要",
@@ -67,8 +66,7 @@ const copy = {
     siteName: "NDHU Graduate Institute of Science Education",
     siteSubname: "M.A. and Ph.D. Programs",
     language: "Language",
-    updated: "Data checked: 2026-05-21",
-    source: "Source",
+    updated: "Updated: 2026-05-21",
     readMore: "Open page",
     footer: "",
     nav: {
@@ -84,12 +82,12 @@ const copy = {
     },
     intros: {
       home: "Main information for applicants, students, alumni, and partner schools.",
-      news: "Current searchable admission, conference, and outreach items are grouped with dates and categories.",
+      news: "Admissions, conferences, and science outreach announcements are presented by date and category.",
       admissions: "Master's, doctoral, recommendation, examination, and five-year B.A./M.A. pathway information are gathered for easy seasonal updates.",
-      faculty: "Public department pages and thesis records are used to summarize full-time faculty, former thesis advisors, and retired faculty.",
-      students: "Student resources, enrollment categories, and public alumni notes are presented while avoiding unnecessary personal data exposure.",
-      features: "History, goals, research directions, and alumni records.",
-      curriculum: "Official course regulations, curriculum maps, and thematic course structure.",
+      faculty: "Full-time, retired, and former thesis-advising faculty are presented with research areas and thesis-advising records.",
+      students: "Student resources, enrollment categories, and alumni thesis records.",
+      features: "History, educational goals, research directions, and alumni network.",
+      curriculum: "Study regulations, curriculum maps, timetables, and course themes.",
       downloads: "Regulations, forms, scholarships, and room-use files are organized as a download area.",
       events: "Science train, science week, and city science festival records are grouped together."
     },
@@ -118,19 +116,18 @@ const copy = {
     siteName: "国立東華大学 科学教育研究所",
     siteSubname: "科学教育修士課程・博士課程 多言語サイト",
     language: "言語",
-    updated: "資料確認日：2026-05-21",
-    source: "出典",
+    updated: "更新日：2026-05-21",
     readMore: "ページを見る",
     footer: "",
     nav: { home: "ホーム", news: "最新情報", admissions: "入試情報", faculty: "教員紹介", students: "学生紹介", features: "特色", curriculum: "カリキュラム", downloads: "資料ダウンロード", events: "活動記録" },
     intros: {
-      home: "師資培育中心のニュース、クイックリンク、活動入口の構成を参考に、科学教育向けに再構成しました。",
-      news: "検索可能な入試、学会、科学普及活動の情報を日付と出典付きで掲載します。",
+      home: "志願者、在学生、修了生、連携校に向けて、科学教育修士課程・博士課程の主な情報を掲載します。",
+      news: "入試、学会、科学普及活動の情報を日付と分類で掲載します。",
       admissions: "修士・博士、推薦入試、一般入試、五年一貫制度の情報をまとめています。",
-      faculty: "公開された学系サイトと論文情報から、専任・歴任指導・退職教員の概要を整理しました。",
-      students: "個人情報に配慮しながら、学生支援、在学区分、公開されている校友情報を示します。",
-      features: "旧研究所の理念と現在の課程目標を統合し、読みやすい特色として提示します。",
-      curriculum: "公式の課程規定システムと課程マップへつなぎ、研究テーマで構造を示します。",
+      faculty: "専任教員、退職教員、歴任指導教員の研究分野と論文指導記録を紹介します。",
+      students: "学生支援、在学区分、修了生の論文記録を掲載します。",
+      features: "沿革、教育目標、研究方向、修了生ネットワークを紹介します。",
+      curriculum: "修業規定、課程マップ、時間割、科目テーマを示します。",
       downloads: "規程、申請書、奨助、教室利用などの入口をまとめました。",
       events: "科学列車、全民科学週、都市科学節の記録を整理しました。"
     },
@@ -141,21 +138,20 @@ const copy = {
     siteName: "国立东华大学科学教育研究所",
     siteSubname: "科学教育硕士班／博士班多语信息站",
     language: "语言",
-    updated: "资料检核日期：2026-05-21",
-    source: "来源",
+    updated: "更新日期：2026-05-21",
     readMore: "查看网页",
     footer: "",
     nav: { home: "首页", news: "最新消息", admissions: "招生信息", faculty: "师资介绍", students: "学生介绍", features: "研究所特色", curriculum: "课程架构", downloads: "文件下载", events: "学会活动记录" },
     intros: {
-      home: "参考师资培育中心的公告、快速链接与活动入口结构，转换为科教所可用的多语信息站。",
-      news: "收录目前可查到的招生、研讨会与科普活动消息，并保留日期与类别。",
+      home: "提供考生、学生、校友与合作单位查阅科学教育硕士班／博士班主要信息。",
+      news: "公告招生、研讨会与科普活动消息，并依日期与类别呈现。",
       admissions: "集中显示硕士班、博士班、甄试、考试与五年修读信息，便于招生季更新。",
-      faculty: "依据公开系网与论文资料建立专任师资、历任指导师资与退休师资摘要。",
-      students: "在尊重隐私的前提下整理学生资源、在学身份类型与公开校友记录。",
-      features: "整合旧科教所宗旨与现行班制目标，形成网站可读的特色叙事。",
-      curriculum: "连接教务处课规系统与课程地图，并以研究主题呈现课程骨架。",
-      downloads: "整理规章、表单、奖助与场地借用等文件入口。",
-      events: "整理科普列车、全民科学周与城市科学节活动记录。"
+      faculty: "呈现专任师资、退休师资与历任指导师资之研究专长与论文指导记录。",
+      students: "提供学生资源、在学身份类型与校友论文记录。",
+      features: "介绍沿革、教育目标、研究方向与校友网络。",
+      curriculum: "呈现修业要点、课程地图、课表与课程主题。",
+      downloads: "提供规章、表单、奖助与场地借用文件。",
+      events: "收录科普列车、全民科学周与城市科学节活动记录。"
     },
     labels: { overview: "站点重点", quickLinks: "快速入口", current: "专任师资", retired: "退休师资", admin: "行政支援", publicNote: "公开资料备注", master: "科学教育硕士班", doctoral: "科学教育博士班", research: "研究领域", email: "邮箱", office: "研究室", phone: "电话", degree: "最高学历", role: "职称", date: "日期", category: "类别" }
   },
@@ -164,19 +160,18 @@ const copy = {
     siteName: "Viện Giáo dục Khoa học, NDHU",
     siteSubname: "Trang đa ngôn ngữ cho chương trình thạc sĩ/tiến sĩ",
     language: "Ngôn ngữ",
-    updated: "Dữ liệu kiểm tra: 2026-05-21",
-    source: "Nguồn",
-    readMore: "Xem nguồn",
+    updated: "Cập nhật: 2026-05-21",
+    readMore: "Mở trang",
     footer: "",
     nav: { home: "Trang chủ", news: "Tin mới", admissions: "Tuyển sinh", faculty: "Giảng viên", students: "Sinh viên", features: "Đặc trưng", curriculum: "Chương trình", downloads: "Tải tài liệu", events: "Hoạt động" },
     intros: {
-      home: "Bố cục tham khảo cấu trúc tin tức, liên kết nhanh và hoạt động của Trung tâm Đào tạo giáo viên.",
-      news: "Các mục tuyển sinh, hội thảo và phổ biến khoa học có thể tra cứu được nhóm theo ngày và nguồn.",
+      home: "Thông tin chính cho ứng viên, sinh viên, cựu sinh viên và các đơn vị hợp tác của chương trình thạc sĩ/tiến sĩ giáo dục khoa học.",
+      news: "Tin tuyển sinh, hội thảo và phổ biến khoa học được trình bày theo ngày và nhóm nội dung.",
       admissions: "Thông tin thạc sĩ, tiến sĩ, xét tuyển, thi tuyển và lộ trình năm năm được gom lại để cập nhật nhanh.",
-      faculty: "Tóm tắt giảng viên cơ hữu, cố vấn luận văn trước đây và giảng viên nghỉ hưu từ trang công khai.",
-      students: "Trình bày tài nguyên sinh viên, nhóm đang học và ghi nhận cựu sinh viên công khai, đồng thời bảo vệ dữ liệu cá nhân.",
-      features: "Kết hợp sứ mệnh viện cũ với mục tiêu chương trình hiện nay thành câu chuyện nhận diện dễ đọc.",
-      curriculum: "Liên kết hệ thống quy định học phần chính thức và bản đồ môn học, kèm khung chủ đề nghiên cứu.",
+      faculty: "Giảng viên cơ hữu, giảng viên nghỉ hưu và các cố vấn luận văn trước đây được giới thiệu cùng lĩnh vực nghiên cứu.",
+      students: "Tài nguyên sinh viên, nhóm đang học và hồ sơ luận văn của cựu sinh viên.",
+      features: "Lịch sử, mục tiêu giáo dục, hướng nghiên cứu và mạng lưới cựu sinh viên.",
+      curriculum: "Trình bày quy định học tập, bản đồ môn học, thời khóa biểu và chủ đề khóa học.",
       downloads: "Quy định, biểu mẫu, học bổng và sử dụng phòng được tổ chức thành khu tải xuống.",
       events: "Ghi lại Science Train, Science Week và lễ hội khoa học đô thị."
     },
@@ -187,19 +182,18 @@ const copy = {
     siteName: "สถาบันบัณฑิตศึกษาวิทยาศาสตร์ศึกษา NDHU",
     siteSubname: "เว็บไซต์หลายภาษาสำหรับหลักสูตรปริญญาโท/เอก",
     language: "ภาษา",
-    updated: "ตรวจสอบข้อมูล: 2026-05-21",
-    source: "แหล่งที่มา",
-    readMore: "ดูแหล่งที่มา",
+    updated: "อัปเดต: 2026-05-21",
+    readMore: "เปิดหน้า",
     footer: "",
     nav: { home: "หน้าแรก", news: "ข่าวล่าสุด", admissions: "การรับสมัคร", faculty: "คณาจารย์", students: "นักศึกษา", features: "จุดเด่น", curriculum: "หลักสูตร", downloads: "ดาวน์โหลด", events: "กิจกรรม" },
     intros: {
-      home: "โครงสร้างอ้างอิงจากข่าว ลิงก์ด่วน และกิจกรรมของศูนย์ผลิตครู แล้วปรับให้เหมาะกับวิทยาศาสตร์ศึกษา",
-      news: "รวมข่าวรับสมัคร ประชุมวิชาการ และกิจกรรมวิทยาศาสตร์ที่ค้นได้ พร้อมวันที่และแหล่งที่มา",
+      home: "ข้อมูลหลักสำหรับผู้สมัคร นักศึกษา ศิษย์เก่า และหน่วยงานความร่วมมือของหลักสูตรวิทยาศาสตร์ศึกษา",
+      news: "ข่าวรับสมัคร ประชุมวิชาการ และกิจกรรมวิทยาศาสตร์ จัดตามวันที่และหมวดหมู่",
       admissions: "รวมข้อมูลปริญญาโท เอก การคัดเลือก การสอบ และเส้นทางเรียนต่อห้าปี",
-      faculty: "สรุปคณาจารย์ประจำ อาจารย์ที่ปรึกษาวิทยานิพนธ์เดิม และอาจารย์เกษียณจากข้อมูลสาธารณะ",
-      students: "แสดงทรัพยากรนักศึกษา กลุ่มผู้เรียน และบันทึกศิษย์เก่าสาธารณะ โดยคำนึงถึงความเป็นส่วนตัว",
-      features: "รวมพันธกิจเดิมกับเป้าหมายปัจจุบันให้เป็นเรื่องเล่าของหลักสูตร",
-      curriculum: "เชื่อมระบบหลักสูตรและแผนที่รายวิชา พร้อมกรอบหัวข้อวิจัย",
+      faculty: "แนะนำคณาจารย์ประจำ อาจารย์เกษียณ และอาจารย์ที่เคยเป็นที่ปรึกษาวิทยานิพนธ์ พร้อมสาขาวิจัย",
+      students: "ทรัพยากรนักศึกษา กลุ่มผู้เรียน และบันทึกวิทยานิพนธ์ของศิษย์เก่า",
+      features: "ประวัติ เป้าหมายการศึกษา ทิศทางวิจัย และเครือข่ายศิษย์เก่า",
+      curriculum: "แสดงระเบียบการศึกษา แผนที่รายวิชา ตารางเรียน และหัวข้อรายวิชา",
       downloads: "จัดระเบียบระเบียบ แบบฟอร์ม ทุน และการยืมห้อง",
       events: "รวบรวม Science Train, Science Week และเทศกาลวิทยาศาสตร์เมือง"
     },
@@ -210,19 +204,18 @@ const copy = {
     siteName: "Institut Pendidikan Sains NDHU",
     siteSubname: "Situs multibahasa program magister/doktor",
     language: "Bahasa",
-    updated: "Data diperiksa: 2026-05-21",
-    source: "Sumber",
-    readMore: "Lihat sumber",
+    updated: "Diperbarui: 2026-05-21",
+    readMore: "Buka halaman",
     footer: "",
     nav: { home: "Beranda", news: "Berita", admissions: "Penerimaan", faculty: "Dosen", students: "Mahasiswa", features: "Keunggulan", curriculum: "Kurikulum", downloads: "Unduhan", events: "Kegiatan" },
     intros: {
-      home: "Struktur berita, tautan cepat, dan pintu aktivitas diadaptasi dari pusat pendidikan guru untuk situs pendidikan sains.",
-      news: "Item penerimaan, konferensi, dan outreach yang dapat dicari dikelompokkan dengan tanggal dan sumber.",
+      home: "Informasi utama bagi calon mahasiswa, mahasiswa, alumni, dan mitra program pendidikan sains.",
+      news: "Informasi penerimaan, konferensi, dan kegiatan sains disajikan menurut tanggal dan kategori.",
       admissions: "Informasi magister, doktor, seleksi, ujian, dan jalur lima tahun digabungkan agar mudah diperbarui.",
-      faculty: "Ringkasan dosen tetap, pembimbing tesis terdahulu, dan dosen purnabakti berasal dari halaman publik.",
-      students: "Sumber daya mahasiswa, kategori studi, dan catatan alumni publik ditampilkan sambil menjaga data pribadi.",
-      features: "Misi lama dan tujuan program saat ini digabung menjadi narasi identitas yang mudah dibaca.",
-      curriculum: "Terhubung ke sistem aturan kurikulum resmi dan peta kurikulum, dengan tema riset sebagai kerangka.",
+      faculty: "Dosen tetap, dosen purnabakti, dan pembimbing tesis terdahulu ditampilkan bersama bidang riset.",
+      students: "Sumber daya mahasiswa, kategori studi, dan catatan tesis alumni.",
+      features: "Sejarah, tujuan pendidikan, arah riset, dan jaringan alumni.",
+      curriculum: "Menampilkan aturan studi, peta kurikulum, jadwal, dan tema mata kuliah.",
       downloads: "Regulasi, formulir, beasiswa, dan penggunaan ruang disusun sebagai area unduhan.",
       events: "Catatan Science Train, Science Week, dan festival sains kota dihimpun."
     },
@@ -233,19 +226,18 @@ const copy = {
     siteName: "Institut Pendidikan Sains NDHU",
     siteSubname: "Laman pelbagai bahasa untuk program sarjana/sarjana kedoktoran",
     language: "Bahasa",
-    updated: "Data disemak: 2026-05-21",
-    source: "Sumber",
-    readMore: "Lihat sumber",
+    updated: "Dikemas kini: 2026-05-21",
+    readMore: "Buka halaman",
     footer: "",
     nav: { home: "Utama", news: "Berita", admissions: "Kemasukan", faculty: "Pensyarah", students: "Pelajar", features: "Keistimewaan", curriculum: "Kurikulum", downloads: "Muat turun", events: "Aktiviti" },
     intros: {
-      home: "Susun atur berita, pautan pantas dan aktiviti diadaptasi daripada pusat latihan guru untuk laman pendidikan sains.",
-      news: "Maklumat kemasukan, persidangan dan jangkauan yang boleh dicari dikumpulkan bersama tarikh dan sumber.",
+      home: "Maklumat utama untuk pemohon, pelajar, alumni dan rakan kerjasama program pendidikan sains.",
+      news: "Maklumat kemasukan, persidangan dan aktiviti sains disusun mengikut tarikh dan kategori.",
       admissions: "Maklumat sarjana, PhD, saringan, peperiksaan dan laluan lima tahun dihimpunkan untuk kemas kini mudah.",
-      faculty: "Ringkasan pensyarah tetap, penyelia tesis terdahulu dan pensyarah bersara berdasarkan laman awam.",
-      students: "Sumber pelajar, kategori pengajian dan nota alumni awam dipaparkan sambil menjaga data peribadi.",
-      features: "Misi institut lama dan matlamat semasa digabung menjadi naratif identiti yang jelas.",
-      curriculum: "Memaut kepada sistem peraturan kurikulum rasmi dan peta kursus, dengan tema penyelidikan sebagai rangka.",
+      faculty: "Pensyarah tetap, pensyarah bersara dan penyelia tesis terdahulu dipaparkan bersama bidang penyelidikan.",
+      students: "Sumber pelajar, kategori pengajian dan rekod tesis alumni.",
+      features: "Sejarah, matlamat pendidikan, hala tuju penyelidikan dan rangkaian alumni.",
+      curriculum: "Memaparkan peraturan pengajian, peta kursus, jadual dan tema kursus.",
       downloads: "Peraturan, borang, biasiswa dan penggunaan bilik disusun dalam bahagian muat turun.",
       events: "Rekod Science Train, Science Week dan festival sains bandar dihimpunkan."
     },
@@ -256,19 +248,18 @@ const copy = {
     siteName: "국립동화대학교 과학교육연구소",
     siteSubname: "과학교육 석사/박사과정 다국어 사이트",
     language: "언어",
-    updated: "자료 확인일: 2026-05-21",
-    source: "출처",
-    readMore: "출처 보기",
+    updated: "업데이트: 2026-05-21",
+    readMore: "페이지 보기",
     footer: "",
     nav: { home: "홈", news: "최신 소식", admissions: "입학", faculty: "교원", students: "학생", features: "특색", curriculum: "교육과정", downloads: "자료실", events: "활동 기록" },
     intros: {
-      home: "교원양성센터의 뉴스, 빠른 링크, 활동 구조를 참고해 과학교육 사이트로 재구성했습니다.",
-      news: "검색 가능한 입학, 학술행사, 과학 대중화 소식을 날짜와 출처와 함께 묶었습니다.",
+      home: "지원자, 재학생, 동문, 협력 기관을 위한 과학교육 석사·박사과정 주요 정보를 제공합니다.",
+      news: "입학, 학술행사, 과학 대중화 소식을 날짜와 분류로 제공합니다.",
       admissions: "석사, 박사, 추천, 시험, 5년 연계 과정 정보를 한곳에 모았습니다.",
-      faculty: "공개 학과 페이지와 논문 자료를 바탕으로 전임, 전 지도교수, 퇴직 교원을 요약했습니다.",
-      students: "개인정보 노출을 줄이며 학생 자원, 재학 유형, 공개 동문 기록을 제시합니다.",
-      features: "옛 연구소 사명과 현재 과정 목표를 읽기 쉬운 정체성 서사로 통합했습니다.",
-      curriculum: "공식 교과 규정 시스템과 커리큘럼 맵을 연결하고 연구 주제로 구조를 보여줍니다.",
+      faculty: "전임교원, 퇴직교원, 전 지도교수의 연구 분야와 논문 지도 기록을 소개합니다.",
+      students: "학생 자원, 재학 유형, 동문 논문 기록을 제공합니다.",
+      features: "연혁, 교육 목표, 연구 방향, 동문 네트워크를 소개합니다.",
+      curriculum: "수업 규정, 교육과정 지도, 시간표와 과목 주제를 제시합니다.",
       downloads: "규정, 양식, 장학, 공간 사용 자료를 다운로드 영역으로 정리했습니다.",
       events: "과학열차, 과학주간, 도시과학축제 기록을 모았습니다."
     },
@@ -298,15 +289,28 @@ const sources = {
   curriculum: "https://dehpd.ndhu.edu.tw/p/412-1101-22141.php?Lang=zh-tw",
   map: "https://dehpd.ndhu.edu.tw/p/412-1101-22090.php?Lang=zh-tw",
   downloads: "https://dehpd.ndhu.edu.tw/p/412-1101-22103.php?Lang=zh-tw",
+  maReg: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/SEC-MA-REGULATION113.pdf",
+  phdReg: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/114SCE_PHD_REG.pdf",
+  mapPhd: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/660348002.pdf",
+  mapMaster: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/503384821.pdf",
+  timetable1141: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/241481137.docx",
+  timetable1142: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/572218290.docx",
+  masterAdmission115: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/SCE115.pdf",
+  taRules: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4829/bylaw_edu-TA(1070419).pdf",
+  raRules: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4829/bylaw_edu-RA(1140220).pdf",
+  naturalCreditList: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/985734405.docx",
+  naturalCreditForm: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/851641689.doc",
+  naturalCreditCompare: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/1090720SCE(1).docx",
+  naturalCreditFramework: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/1130828.pdf",
+  roomD325: "https://dehpd.ndhu.edu.tw/p/406-1101-242712,r6660.php?Lang=zh-tw",
   phdQuota: "https://exam.ndhu.edu.tw/p/404-1104-257006.php?Lang=zh-tw",
   recommender: "https://dehpd.ndhu.edu.tw/p/406-1101-248709%2Cr6616.php?Lang=zh-tw",
   fiveYear: "https://dehpd.ndhu.edu.tw/p/406-1101-256575%2Cr6606.php?Lang=zh-tw",
   cityScience: "https://www.ndhu.edu.tw/p/404-1000-205590.php?Lang=zh-tw",
   facebookGroup: "https://www.facebook.com/groups/302501126476342",
   alumni: "https://dehpd.ndhu.edu.tw/p/406-1101-243958%2Cr6610.php?Lang=zh-tw",
-  alumniChenWenCheng: "https://wedu.nttu.edu.tw/p/412-1037-12667.php?Lang=zh-tw",
   personnel990201: "https://ws2-sun.ndhu.edu.tw/~person/Chinese%20Web/15.right%20row/01.990201%28990209%29.pdf",
-  ndltdMirror: "https://data.zhupiter.com/search/%E5%9C%8B%E7%AB%8B%E6%9D%B1%E8%8F%AF%E5%A4%A7%E5%AD%B8+%E6%95%99%E8%82%B2%E8%88%87%E6%BD%9B%E8%83%BD%E9%96%8B%E7%99%BC%E5%AD%B8%E7%B3%BB+%E7%A7%91%E5%AD%B8%E6%95%99%E8%82%B2/"
+  ndltd: "https://ndltd.ncl.edu.tw/"
 };
 
 const t = (key) => copy[state.lang]?.[key] || copy.en[key] || copy["zh-Hant"][key];
@@ -338,23 +342,6 @@ if (!copy[state.lang]) state.lang = "zh-Hant";
 if (!sections.includes(state.section)) state.section = "home";
 
 const newsItems = [
-  {
-    date: "2026-05-21",
-    category: "所友",
-    title: {
-      "zh-Hant": "陳文正博士任國立臺東大學教育學系助理教授",
-      en: "Dr. Wen-Cheng Chen serves as Assistant Professor at NTTU Department of Education",
-      ja: "陳文正博士、国立台東大学教育学系助理教授",
-      "zh-Hans": "陈文正博士任国立台东大学教育学系助理教授"
-    },
-    summary: {
-      "zh-Hant": "臺東大學教育學系專任師資頁列陳文正博士為助理教授，學歷為國立東華大學課程設計與潛能開發學系科學教育研究所博士。",
-      en: "NTTU's Department of Education lists Dr. Chen as Assistant Professor and notes his Ph.D. from NDHU's Science Education program.",
-      ja: "台東大学教育学系の専任教員ページでは、陳文正博士を助理教授とし、東華大学科学教育研究所博士と記載しています。",
-      "zh-Hans": "台东大学教育学系专任师资页列陈文正博士为助理教授，学历为国立东华大学科学教育研究所博士。"
-    },
-    url: sources.alumniChenWenCheng
-  },
   {
     date: "2026-04-29",
     category: "招生",
@@ -671,14 +658,14 @@ const faculty = {
     {
       name: "潘宏明",
       role: "歷任指導師資",
-      degree: "公開論文目錄列為指導教授",
+      degree: "論文目錄列為指導教授",
       research: {
         "zh-Hant": "數學教育、原住民族學生數概念、幾何概念、分數教學",
         en: "Mathematics education, Indigenous students' number concepts, geometry concepts, fraction teaching"
       },
       advisorCount: "10",
       highlights: [
-        "舊科教所論文目錄中，以潘宏明為指導教授的公開紀錄有10筆。",
+        "舊科教所論文目錄中，以潘宏明為指導教授的紀錄有10筆。",
         "指導題目集中在泰雅族學生數概念、平面幾何概念、分數教學與國小數學學習。"
       ],
       selectedTheses: [
@@ -691,14 +678,14 @@ const faculty = {
     {
       name: "張惠珠",
       role: "歷任指導師資",
-      degree: "公開論文目錄列為指導教授",
+      degree: "論文目錄列為指導教授",
       research: {
         "zh-Hant": "環境教育、生命教育、性健康教育、鄉土植物與防震教育",
         en: "Environmental education, life education, sex-health education, local plants, disaster-prevention education"
       },
       advisorCount: "5",
       highlights: [
-        "舊科教所論文目錄中，以張惠珠為指導教授的公開紀錄有5筆。",
+        "舊科教所論文目錄中，以張惠珠為指導教授的紀錄有5筆。",
         "指導題目包含鳥類概念、防震教育、鄉土植物、生命教育與健康教學。"
       ],
       selectedTheses: [
@@ -711,14 +698,14 @@ const faculty = {
     {
       name: "石明卿",
       role: "歷任指導師資",
-      degree: "公開論文目錄列為指導教授",
+      degree: "論文目錄列為指導教授",
       research: {
         "zh-Hant": "環境教育、自然保育、戶外教學資源、自然科教材",
         en: "Environmental education, conservation, outdoor teaching resources, science curriculum materials"
       },
       advisorCount: "4",
       highlights: [
-        "舊科教所論文目錄中，以石明卿為指導教授的公開紀錄有4筆。",
+        "舊科教所論文目錄中，以石明卿為指導教授的紀錄有4筆。",
         "指導題目集中於野生動物保育、戶外環境教育、自然保育素養與環境教育教材。"
       ],
       selectedTheses: [
@@ -731,14 +718,14 @@ const faculty = {
     {
       name: "林煥祥",
       role: "歷任指導師資",
-      degree: "公開論文目錄與東華時期論文資料列為指導教授",
+      degree: "論文目錄與東華時期論文資料列為指導教授",
       research: {
         "zh-Hant": "科學論證、設計實驗能力、教師專業能力、科學態度",
         en: "Scientific argumentation, experimental-design ability, teacher professional competence, attitudes toward science"
       },
       advisorCount: "5",
       highlights: [
-        "舊科教所論文目錄中，以林煥祥為指導教授的公開紀錄有4筆；東華時期公開論文資料另有共同指導紀錄。",
+        "舊科教所論文目錄中，以林煥祥為指導教授的紀錄有4筆；東華時期學位論文另有共同指導紀錄。",
         "指導題目包含論證能力、設計實驗能力、教師專業能力與科學態度。"
       ],
       selectedTheses: [
@@ -749,9 +736,9 @@ const faculty = {
       ]
     },
     {
-      name: "其他公開論文指導師資",
+      name: "其他論文指導師資",
       role: "共同指導／外聘指導紀錄",
-      degree: "依舊科教所論文目錄整理",
+      degree: "舊科教所論文目錄列名",
       research: {
         "zh-Hant": "地科概念、建構教學、科學本質、特殊教學資源、原住民族時間概念等",
         en: "Earth-science concepts, constructivist teaching, nature of science, special teaching resources, Indigenous time concepts"
@@ -780,11 +767,11 @@ const faculty = {
         en: "History and philosophy of science, science education, research methods, science teacher professional development, environmental education and organic agriculture"
       },
       advisorCount: "43",
-      retirement: "退休教師（依舊系網與公開論文目錄整理）",
+      retirement: "退休教師",
       image: "assets/legacy-liu-sheng-chung.jpg",
       highlights: [
         "舊版教師頁列為劉聖忠助理教授，專長包含科學史哲、科學教育、教育研究法與科學教師專業發展。",
-        "舊科教所論文目錄中，以劉聖忠為指導教授的公開紀錄有43筆，是早期科教所重要指導師資。"
+        "舊科教所論文目錄中，以劉聖忠為指導教授的紀錄有43筆，是早期科教所重要指導師資。"
       ],
       selectedTheses: [
         "汪光懿，87學年度碩士論文：原住民國小學童動物分類概念發展之詮釋性研究。",
@@ -796,18 +783,18 @@ const faculty = {
     {
       name: "陳龍川",
       role: "退休教師／首任所長／歷任科教所指導師資",
-      degree: "科學教育研究所首任所長，學經歷以公開沿革頁與論文目錄為據",
+      degree: "科學教育研究所首任所長",
       research: {
         "zh-Hant": "概念改變、電腦模擬、概念生態、幾何思考、網路問題式學習",
         en: "Conceptual change, computer simulation, conceptual ecology, geometry thinking, web-based problem-based learning"
       },
       advisorCount: "10",
-      retirement: "退休教師（依沿革頁與公開論文目錄整理）",
+      retirement: "退休教師",
       url: sources.history,
       urlLabel: { "zh-Hant": "沿革頁", en: "History Page" },
       highlights: [
         "官方沿革頁列陳龍川為86年8月至88年7月首任所長。",
-        "舊科教所論文目錄中，以陳龍川為指導教授的公開紀錄有10筆。"
+        "舊科教所論文目錄中，以陳龍川為指導教授的紀錄有10筆。"
       ],
       selectedTheses: [
         "陳振威，87學年度碩士論文：學生概念生態組成因子之研究－以密度/浮沈概念為例。",
@@ -829,7 +816,7 @@ const faculty = {
       url: sources.retired,
       highlights: [
         "長期深耕原住民科學教育、地方本位課程、科學傳播與師資培育，是科教所在東部在地研究的重要代表。",
-        "公開論文資料顯示，李暉教授指導主題橫跨IKW、太魯閣族知識、科學媒體素養、科學場館到校服務與科學閱讀。"
+        "學位論文資料顯示，李暉教授指導主題橫跨IKW、太魯閣族知識、科學媒體素養、科學場館到校服務與科學閱讀。"
       ],
       selectedTheses: [
         "拉罕羅幸，112學年度博士論文：從Snaw Balay的概念探討太魯閣族的知識信念與世界觀。",
@@ -867,7 +854,7 @@ const faculty = {
         "zh-Hant": "生物教育、資訊教育、科學教育",
         en: "Biology education, information education, science education"
       },
-      retirement: "早期專任師資（依既有公開資料整理）",
+      retirement: "早期專任師資",
       email: "mjhl@mail.ndhu.edu.tw",
       highlights: [
         "舊科教所早期專任師資與歷任所長之一，研究專長連結生物教育、資訊教育與科學教育。",
@@ -887,13 +874,37 @@ const recentAlumniTheses = [
     era: "東華時期",
     program: "教育與潛能開發學系",
     degree: "博士",
+    gradTerm: "113",
+    name: "黃俊仁",
+    advisor: "古智雄",
+    title: "高中學生在ChatGPT輔助機器人課程學習中的程式設計能力及自我效能",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
+    url: "https://hdl.handle.net/11296/e5r4v2"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
+    degree: "碩士",
+    gradTerm: "112",
+    name: "林郁鈞",
+    advisor: "李暉",
+    title: "高等教育學生的媒體素養與對食品添加物的態度",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
+    url: "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id%3D%22112NDHU5331012%22.&searchmode=basic"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
+    degree: "博士",
     gradTerm: "112",
     name: "拉罕羅幸",
     advisor: "李暉",
     title: "從Snaw Balay的概念探討太魯閣族的知識信念與世界觀",
     school: "國立東華大學",
     source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
-    url: "https://data.zhupiter.com/oddt/24117868/%E5%BE%9ESnaw-Balay%E7%9A%84%E6%A6%82%E5%BF%B5%E6%8E%A2%E8%A8%8E%E5%A4%AA%E9%AD%AF%E9%96%A3%E6%97%8F%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BF%A1%E5%BF%B5%E8%88%87%E4%B8%96%E7%95%8C%E8%A7%80/"
+    url: "https://hdl.handle.net/11296/7r9aa8"
   },
   {
     era: "東華時期",
@@ -905,7 +916,7 @@ const recentAlumniTheses = [
     title: "初任教師在探究本位科學媒體素養課程中的行動研究",
     school: "國立東華大學",
     source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
-    url: "https://data.zhupiter.com/oddt/24118202/%E5%88%9D%E4%BB%BB%E6%95%99%E5%B8%AB%E5%9C%A8%E6%8E%A2%E7%A9%B6%E6%9C%AC%E4%BD%8D%E7%A7%91%E5%AD%B8%E5%AA%92%E9%AB%94%E7%B4%A0%E9%A4%8A%E8%AA%B2%E7%A8%8B%E4%B8%AD%E7%9A%84%E8%A1%8C%E5%8B%95%E7%A0%94%E7%A9%B6/"
+    url: "https://hdl.handle.net/11296/xav67k"
   },
   {
     era: "東華時期",
@@ -932,6 +943,18 @@ const recentAlumniTheses = [
   {
     era: "東華時期",
     program: "教育與潛能開發學系",
+    degree: "碩士",
+    gradTerm: "111",
+    name: "張鈞傑",
+    advisor: "古智雄",
+    title: "大學生生活科技社會意象之研究－以機能性服飾為例",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
+    url: "https://hdl.handle.net/11296/4y6yuw"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
     degree: "博士",
     gradTerm: "110",
     name: "林宛青",
@@ -950,6 +973,18 @@ const recentAlumniTheses = [
     title: "以傳統歌謠探討台灣太魯閣族群在地知識與世界觀",
     school: "國立東華大學",
     source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
+    degree: "碩士",
+    gradTerm: "110",
+    name: "林佳儀",
+    advisor: "蔣佳玲",
+    title: "普通班科學教師轉任集中式特教班之衝擊與轉變",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
+    url: "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id%3D%22110NDHU5331037%22.&searchmode=basic"
   },
   {
     era: "東華時期",
@@ -977,6 +1012,18 @@ const recentAlumniTheses = [
     era: "東華時期",
     program: "教育與潛能開發學系",
     degree: "碩士",
+    gradTerm: "108",
+    name: "陳愛華",
+    advisor: "古智雄",
+    title: "學童於Chapman探究式數學課室的學習動機及學習成就",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
+    url: "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id%3D%22108NDHU5331015%22.&searchmode=basic"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
+    degree: "碩士",
     gradTerm: "105",
     name: "陳婉匀",
     advisor: "李暉",
@@ -994,7 +1041,7 @@ const recentAlumniTheses = [
     title: "十二年國教原住民科學學習融入IKW的實踐",
     school: "國立東華大學",
     source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
-    url: "https://data.zhupiter.com/oddt/20150147/%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%95%99%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%A7%91%E5%AD%B8%E5%AD%B8%E7%BF%92%E8%9E%8D%E5%85%A5IKW%E7%9A%84%E5%AF%A6%E8%B8%90/"
+    url: "https://hdl.handle.net/11296/mw38fv"
   },
   {
     era: "東華時期",
@@ -1011,10 +1058,32 @@ const recentAlumniTheses = [
     era: "東華時期",
     program: "教育與潛能開發學系",
     degree: "碩士",
+    gradTerm: "105",
+    name: "劉乙萱",
+    advisor: "李暉",
+    title: "花蓮地區高中學生科學素養與媒體素養之相關性研究",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
+    degree: "碩士",
     gradTerm: "104",
     name: "鄭瑤思",
     advisor: "李暉",
     title: "科學教育場館到校服務成效之研究—以瑞穗生態教育館為例",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
+  },
+  {
+    era: "東華時期",
+    program: "教育與潛能開發學系",
+    degree: "碩士",
+    gradTerm: "104",
+    name: "廖証三",
+    advisor: "古智雄",
+    title: "Maker? Maker!高中學生自造課程的學習態度",
     school: "國立東華大學",
     source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
   },
@@ -1094,6 +1163,40 @@ const recentAlumniTheses = [
     title: "花蓮國小學童對科學學習者之認同",
     school: "國立東華大學",
     source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
+  },
+  {
+    era: "東華時期",
+    program: "課程設計與潛能開發學系",
+    degree: "碩士",
+    gradTerm: "102",
+    name: "方建華",
+    advisor: "古智雄",
+    title: "數學科學一家親？從數學與科學教師的觀點談起",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
+  },
+  {
+    era: "東華時期",
+    program: "課程設計與潛能開發學系",
+    degree: "碩士",
+    gradTerm: "102",
+    name: "劉祝住",
+    advisor: "蔣佳玲",
+    title: "國中九年級學生之科學素養－以花蓮縣某國中為例",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料"
+  },
+  {
+    era: "東華時期",
+    program: "課程設計與潛能開發學系",
+    degree: "博士",
+    gradTerm: "101",
+    name: "張仁民",
+    advisor: "李暉 / 林煥祥",
+    title: "原住民族重點小學科學教師專業發展模式研究",
+    school: "國立東華大學",
+    source: "國家圖書館臺灣博碩士論文知識加值系統公開資料",
+    url: "https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id%3D%22101NDHU5331047%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search"
   }
 ];
 
@@ -1218,13 +1321,18 @@ const curriculumThemes = [
 ];
 
 const downloads = [
-  ["教育系研究生助學金(TA)分配原則", "Graduate TA allocation principles", sources.downloads, "2025-05-15"],
-  ["教育系研究生獎學金(RA)分配原則", "Graduate RA scholarship allocation principles", sources.downloads, "2025-05-15"],
-  ["國小教師加註自然領域專長專門課程科目及學分一覽表", "Elementary teacher natural science endorsement course/credit list", sources.downloads, "2025-01-23"],
-  ["教D325科學教學演示教室借用規則", "D325 science teaching demonstration room rules", sources.downloads, "2025-05-15"],
-  ["科學教育碩士班修業要點", "M.A. Science Education study regulations", "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/SEC-MA-REGULATION113.pdf", "113版"],
-  ["科學教育博士班修業要點", "Ph.D. Science Education study regulations", "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/SEC-PHD-REGULATION113.pdf", "113版"],
-  ["115學年度科學教育碩士班招生簡章", "2026 M.A. admission brochure", "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/SCE115.pdf", "115學年度"]
+  ["教育系研究生助學金(TA)分配原則", "Graduate TA allocation principles", sources.taRules, "2025-05-15"],
+  ["教育系研究生獎學金(RA)分配原則", "Graduate RA scholarship allocation principles", sources.raRules, "2025-05-15"],
+  ["國小教師加註自然領域專長專門課程科目及學分一覽表", "Elementary teacher natural science endorsement course/credit list", sources.naturalCreditList, "2025-01-23"],
+  ["國小教師加註自然領域專長專門課程申請表", "Elementary teacher natural science endorsement application form", sources.naturalCreditForm, "2025-01-23"],
+  ["國小教師加註自然領域專長專門課程新舊科目對照表", "Natural science endorsement course equivalency table", sources.naturalCreditCompare, "2025-01-10"],
+  ["國民小學教師加註自然領域專長專門課程架構表", "Elementary teacher natural science endorsement framework", sources.naturalCreditFramework, "2025-01-10"],
+  ["教D325科學教學演示教室借用規則", "D325 science teaching demonstration room rules", sources.roomD325, "2025-05-15"],
+  ["科學教育碩士班修業要點", "M.A. Science Education study regulations", sources.maReg, "113版"],
+  ["科學教育博士班修業要點", "Ph.D. Science Education study regulations", sources.phdReg, "114版"],
+  ["科學教育博士班課程地圖", "Ph.D. Science Education curriculum map", sources.mapPhd, "113版"],
+  ["科學教育碩士班課程地圖", "M.A. Science Education curriculum map", sources.mapMaster, "113版"],
+  ["115學年度科學教育碩士班招生簡章", "2026 M.A. admission brochure", sources.masterAdmission115, "115學年度"]
 ];
 
 const eventItems = [
@@ -1253,8 +1361,7 @@ const eventItems = [
       ms: "Aktiviti bermula di Sekolah Dongli dan melibatkan 20 sekolah melalui stesen sains tempatan.",
       ko: "동리초등학교에서 시작해 화련 중남부 20개 학교가 지역 기반 과학 부스에 참여했습니다.",
       es: "La ruta inició en la Escuela Dongli con 20 escuelas de Hualien central y sur mediante estaciones científicas locales."
-    },
-    url: ""
+    }
   },
   {
     year: "2020",
@@ -1315,16 +1422,16 @@ const eventItems = [
 ];
 
 const stateNote = {
-  "zh-Hant": "完整在學名單以系辦公告為準；本頁以班級、研究主題與公開校友紀錄呈現，兼顧資訊完整與個資保護。",
-  en: "The public department site does not currently list a complete current-student roster. This page uses maintainable cohorts, research themes, and public alumni notes to avoid unnecessary personal-data exposure.",
-  ja: "公開サイトには在学生名簿が完全には掲載されていないため、個人情報に配慮し、学籍区分・研究テーマ・公開校友記録で構成しています。",
-  "zh-Hans": "公开系网目前未列出完整在学学生名单；本页以可公开维护的班级、研究主题与校友记录呈现，避免不必要揭露个资。",
-  vi: "Trang công khai hiện chưa liệt kê đầy đủ danh sách sinh viên đang học; trang này dùng nhóm học, chủ đề nghiên cứu và ghi nhận alumni công khai để bảo vệ dữ liệu cá nhân.",
-  th: "เว็บไซต์สาธารณะยังไม่มีรายชื่อนักศึกษาปัจจุบันครบถ้วน หน้านี้จึงใช้กลุ่มผู้เรียน หัวข้อวิจัย และข้อมูลศิษย์เก่าสาธารณะเพื่อคุ้มครองข้อมูลส่วนบุคคล",
-  id: "Situs publik belum memuat daftar mahasiswa aktif lengkap; halaman ini memakai kohort, tema riset, dan catatan alumni publik untuk menjaga data pribadi.",
-  ms: "Laman awam belum menyenaraikan pelajar semasa secara lengkap; halaman ini menggunakan kohort, tema penyelidikan dan nota alumni awam untuk menjaga data peribadi.",
-  ko: "공개 학과 사이트에는 현재 재학생 전체 명단이 없어, 개인정보 노출을 줄이기 위해 과정 유형, 연구 주제, 공개 동문 기록으로 구성했습니다.",
-  es: "El sitio público no lista una nómina completa de estudiantes actuales; esta página usa cohortes, temas de investigación y notas públicas de alumni para proteger datos personales."
+  "zh-Hant": "在學學生資料由系辦維護；本頁呈現碩士班、博士班培育方向與所友學位論文。",
+  en: "Current student information is maintained by the department office. This page presents program pathways and alumni theses.",
+  ja: "在学生情報は学科事務室が管理します。本ページでは修士・博士課程の育成方向と校友の学位論文を示します。",
+  "zh-Hans": "在学学生资料由系办维护；本页呈现硕士班、博士班培育方向与所友学位论文。",
+  vi: "Thông tin sinh viên đang học do văn phòng khoa duy trì; trang này trình bày định hướng đào tạo và luận văn cựu học viên.",
+  th: "ข้อมูลนักศึกษาปัจจุบันดูแลโดยสำนักงานภาควิชา หน้านี้นำเสนอแนวทางหลักสูตรและวิทยานิพนธ์ศิษย์เก่า",
+  id: "Data mahasiswa aktif dikelola kantor departemen; halaman ini menampilkan arah program dan tesis alumni.",
+  ms: "Maklumat pelajar semasa diselenggara oleh pejabat jabatan; halaman ini memaparkan hala tuju program dan tesis alumni.",
+  ko: "재학생 정보는 학과 사무실에서 관리하며, 이 페이지는 석·박사 과정 방향과 동문 학위논문을 제시합니다.",
+  es: "La información de estudiantes activos la mantiene la oficina del departamento; esta página presenta líneas formativas y tesis de alumni."
 };
 
 function init() {
@@ -1624,7 +1731,6 @@ function renderFaculty() {
     });
   });
   return `${header("faculty", sourceUrl)}
-    ${state.teacherTab === "former" ? `<div class="info-band"><h3>${state.lang.startsWith("zh") ? "整理原則" : "Data Basis"}</h3><p>${state.lang.startsWith("zh") ? "本分頁依舊科教所研究生各屆論文目錄與東華時期公開論文資料整理；現任與退休師資已分列於相應分頁，此處保留其他曾任指導教授或共同指導師資。" : "This tab is based on the legacy thesis catalog and public NDHU-era thesis metadata. Current and retired faculty are listed in their own tabs."}</p></div>` : ""}
     <div class="tabs">
       ${tabs.map(([key, name]) => `<button class="tab-button ${state.teacherTab === key ? "active" : ""}" data-tab="${key}" type="button">${name}</button>`).join("")}
     </div>
@@ -1653,7 +1759,7 @@ function renderStudents() {
     {
       title: label("doctoral"),
       body: {
-        "zh-Hant": "培養具國際視野與在地關懷的科學教育研究與革新領導者，公開論文資料也顯示博士校友投入教師專業發展、原住民知識與科學探究研究。",
+        "zh-Hant": "培養具國際視野與在地關懷的科學教育研究與革新領導者，博士校友的學位論文主題涵蓋教師專業發展、原住民知識與科學探究研究。",
         en: "Develops researchers and innovation leaders; public thesis data shows doctoral work in teacher professional development, Indigenous knowledge, and inquiry."
       },
       tags: ["Ph.D.", "Leadership"]
@@ -1667,30 +1773,10 @@ function renderStudents() {
       tags: ["5-year", "Pipeline"]
     }
   ];
-  const alumni = [
-    {
-      title: { "zh-Hant": "陳文正博士任臺東大學教育學系助理教授", en: "Dr. Wen-Cheng Chen serves as Assistant Professor at NTTU" },
-      body: { "zh-Hant": "臺東大學教育學系專任師資頁列陳文正博士為助理教授，學歷為國立東華大學課程設計與潛能開發學系科學教育研究所博士，專長包含科學教育、科學探究與論證教學、科學師資培育與混齡教學。", en: "NTTU's Department of Education lists Dr. Chen as Assistant Professor and notes his NDHU Science Education Ph.D." },
-      tags: ["校友", "Ph.D.", "科學教育"],
-      url: sources.alumniChenWenCheng
-    },
-    {
-      title: { "zh-Hant": "張慧娟博士榮任東華附小校長", en: "Dr. Hui-Juan Chang appointed principal of NDHU Affiliated Elementary School" },
-      body: { "zh-Hant": "教育與潛能開發學系公告祝賀科學教育博士班校友張慧娟博士榮任東華附小校長；公開論文資料亦收錄其博士論文「運用肯定式探詢引領國小師培生自然科教學實習之研究」。", en: "The department publicly congratulated Science Education Ph.D. alumna Dr. Hui-Juan Chang on becoming principal of the NDHU Affiliated Elementary School." },
-      tags: ["校友", "Ph.D.", "教育領導"],
-      url: sources.alumni
-    },
-    {
-      title: { "zh-Hant": "校友研究主題", en: "Alumni Research Topics" },
-      body: { "zh-Hant": "公開論文題名包含地方本位課程、太魯閣族與阿美族知識、海洋概念、科學閱讀、科學媒體素養、科普場館到校服務等主題。", en: "Public thesis titles include place-based curriculum, Indigenous knowledge, marine concepts, science reading, media literacy, and outreach-service research." },
-      tags: ["在地研究", "科學素養", "原住民科教"],
-      url: sources.ndltdMirror
-    }
-  ];
   const stats = [
-    [String(alumniRows.length), isZh ? "公開論文紀錄" : "public thesis records"],
+    [String(alumniRows.length), isZh ? "學位論文紀錄" : "thesis records"],
     [String(legacyRows.length), isZh ? "花師／花教大時期" : "legacy-era records"],
-    [String(recentAlumniTheses.length), isZh ? "東華時期代表紀錄" : "NDHU-era samples"],
+    [String(recentAlumniTheses.length), isZh ? "東華時期論文" : "NDHU-era theses"],
     [String(phdCount), isZh ? "博士論文紀錄" : "doctoral records"],
     [String(advisorCount), isZh ? "指導教授群" : "advisors"]
   ];
@@ -1702,12 +1788,7 @@ function renderStudents() {
     <div class="stat-strip" aria-label="${isZh ? "校友論文資料統計" : "Alumni thesis statistics"}">
       ${stats.map(([number, text]) => `<div><strong>${number}</strong><span>${text}</span></div>`).join("")}
     </div>
-    <h3 style="margin:2rem 0 1rem">${isZh ? "所友近況" : "Alumni Notes"}</h3>
-    <div class="grid cols-2">
-      ${alumni.map((item) => card(pick(item.title), pick(item.body), item.tags, item.url)).join("")}
-    </div>
-    <h3 style="margin:2rem 0 1rem">${isZh ? "公開論文校友資料庫" : "Public Alumni Thesis Database"}</h3>
-    <p class="meta">${isZh ? "表格整理可公開查得之姓名、年度、指導教授與論文題目；花師／花教大時期舊站外連已移除，校友近況則以本人或系辦授權資訊為準。" : "The table lists publicly available names, years, advisors, and thesis titles. Legacy-site links are not used; alumni updates should use authorized information."}</p>
+    <h3 style="margin:2rem 0 1rem">${isZh ? "所友學位論文" : "Alumni Theses"}</h3>
     ${renderAlumniTable(alumniRows)}
   ${closeSection()}`;
 }
@@ -1743,7 +1824,7 @@ function renderAlumniTable(rows) {
 }
 
 function renderThesisTitle(row) {
-  const href = row.url || (String(row.era).includes("花師") ? "" : sources.ndltdMirror);
+  const href = row.url || "";
   if (!href) return escapeHtml(row.title);
   return `<a href="${href}" target="_blank" rel="noreferrer">${escapeHtml(row.title)}</a>`;
 }
@@ -1782,7 +1863,7 @@ function renderAdvisorThesisBlock(people) {
     </tr>`;
   }).join("");
   return `
-    ${sectionSubhead(isZh ? "指導學生與論文" : "Supervised Students and Theses", isZh ? "依既有論文資料彙整；共同指導論文會保留完整指導教授欄位。花師／花教大時期舊站連結已移除，內容直接整理於本頁。" : "Compiled from available thesis records. Co-advised theses retain the full advisor field; legacy-site links are not used.")}
+    ${sectionSubhead(isZh ? "指導學生與論文" : "Supervised Students and Theses", isZh ? "依畢業學年由新至舊排列；共同指導論文保留完整指導教授欄位。花師／花教大時期舊站連結已移除，內容直接整理於本頁。" : "Rows are listed from newest to oldest. Co-advised theses retain the full advisor field; legacy-site links are not used.")}
     <div class="thesis-table-wrap advisor-thesis-table" tabindex="0">
       <table class="thesis-table">
         <thead>
@@ -1825,14 +1906,14 @@ function renderFeatures() {
       <div class="panel">
         <h3>${isZh ? "所友資料" : "Alumni Records"}</h3>
         <div class="metric-grid">
-          <div class="metric-card"><strong>${legacyRows.length + recentAlumniTheses.length}</strong><span>${isZh ? "公開論文紀錄" : "public records"}</span></div>
+          <div class="metric-card"><strong>${legacyRows.length + recentAlumniTheses.length}</strong><span>${isZh ? "學位論文紀錄" : "thesis records"}</span></div>
           <div class="metric-card"><strong>${legacyRows.length}</strong><span>${isZh ? "花師／花教大時期" : "legacy era"}</span></div>
           <div class="metric-card"><strong>${recentAlumniTheses.length}</strong><span>${isZh ? "東華時期代表紀錄" : "NDHU era samples"}</span></div>
           <div class="metric-card"><strong>${advisorNames.length}</strong><span>${isZh ? "指導教授群" : "advisors"}</span></div>
         </div>
       </div>
     </div>
-    ${sectionSubhead(isZh ? "發展沿革" : "Development Timeline", isZh ? "依公開沿革與舊所網資料整理。" : "Based on public history pages and the legacy institute site.")}
+    ${sectionSubhead(isZh ? "發展沿革" : "Development Timeline", isZh ? "從花師時期到東華時期，延續東部科學教育人才培育的脈絡。" : "From the Hualien Teachers College era to NDHU, the program continues the science education mission in eastern Taiwan.")}
     <div class="timeline">
       ${instituteTimeline.map((item) => `
         <article class="timeline-item">
@@ -1857,7 +1938,7 @@ function renderFeatures() {
       <div class="panel">
         <h3>${isZh ? "所友發展" : "Alumni Pathways"}</h3>
         <p>${isZh
-          ? "公開資料可見，所友研究主題包含國小自然科教學、科學玩具、科學本質、原住民科學教育、科學媒體素養、教師專業發展與科普場館服務。張慧娟博士榮任東華附小校長，為教育領導路徑之一例。"
+          ? "所友研究主題包含國小自然科教學、科學玩具、科學本質、原住民科學教育、科學媒體素養、教師專業發展與科普場館服務。"
           : "Public thesis records show alumni work in elementary science teaching, toys and creativity, nature of science, Indigenous science education, media literacy, teacher professional development, and outreach services."}</p>
         <a href="#students">${isZh ? "查看所友論文資料庫" : "View Alumni Thesis Database"}</a>
       </div>
@@ -1871,66 +1952,101 @@ function renderFeatures() {
 
 function renderCurriculum() {
   const isZh = state.lang.startsWith("zh");
-  const items = [
+  const requirementBlocks = [
     {
       title: label("doctoral"),
-      body: {
-        "zh-Hant": "官方課程規劃頁提供科學教育博士班課程規劃表、課規系統與113-2博班課表連結。",
-        en: "The official curriculum page links the Ph.D. curriculum plan, course rule system, and 113-2 doctoral timetable."
-      },
-      tags: ["課規系統", "課程地圖", "Ph.D."],
-      url: sources.curriculum
+      items: isZh
+        ? [
+          "修業年限二至七年；在職研究生得延長二年。",
+          "修畢17學分後得申請資格考；科目為科學史與科學哲學、科學教育研究方法學、科學學習與教學。",
+          "至少修畢30學分、通過論文計畫審查、完成學術研究倫理教育，並達成科學教育相關論文發表或實務推廣積分後，始得申請學位考試。",
+          "論文指導教授以本班專任教師為原則；非本班教師指導時，須有本班專任教師共同指導。"
+        ]
+        : [
+          "Normative period: two to seven years; in-service students may extend by two years.",
+          "Students may apply for the qualifying examination after completing 17 credits.",
+          "Degree examination requires at least 30 credits, proposal approval, research ethics completion, and publication or outreach points.",
+          "Dissertation advisors are normally full-time program faculty; external advising requires a program co-advisor."
+        ]
     },
     {
       title: label("master"),
-      body: {
-        "zh-Hant": "官方課程規劃頁提供科學教育碩士班課程規劃表、課規系統與113-2碩班課表連結。",
-        en: "The official curriculum page links the M.A. curriculum plan, course rule system, and 113-2 master's timetable."
-      },
-      tags: ["課規系統", "課程地圖", "M.A."],
-      url: sources.curriculum
-    },
-    {
-      title: { "zh-Hant": "課程主題骨架", en: "Theme Frame" },
-      body: {
-        "zh-Hant": "招生資料強調AI在科學教育上的應用、科學遊戲、教具研發、STEM、社會性科學議題與實作導向課程。",
-        en: "Admission materials emphasize AI in science education, science games, teaching-aid development, STEM, socio-scientific issues, and practice-based curriculum."
-      },
-      tags: ["AI", "STEM", "SSI", "Inquiry"],
-      url: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/4832/SCE115.pdf"
-    },
-    {
-      title: { "zh-Hant": "課程地圖", en: "Curriculum Maps" },
-      body: {
-        "zh-Hant": "系網提供科學教育博士班與碩士班課程地圖入口，可作為課程頁的主要外部連結。",
-        en: "The department site provides curriculum map links for the Science Education Ph.D. and M.A. programs."
-      },
-      tags: ["Map", "Official"],
-      url: sources.map
+      items: isZh
+        ? [
+          "修業年限一至四年；在職研究生得延長二年。",
+          "研究生應於入學後第二學期結束前提出碩士論文指導教授同意書。",
+          "預計取得畢業所需學分之學期起得申請學位考試，並須於考試三週前提出申請。",
+          "畢業前須完成科學教育相關論文發表、教師檢定或高普考、英語檢定、科展或課程教材競賽成果等門檻之一。"
+        ]
+        : [
+          "Normative period: one to four years; in-service students may extend by two years.",
+          "Students submit advisor approval by the end of the second semester after admission.",
+          "Degree examination can be requested in the semester when graduation credits are expected, at least three weeks before the exam.",
+          "Graduation requires one program milestone such as publication, certification exam, language test, or science education competition work."
+        ]
     }
+  ];
+  const courseRows = [
+    ["114-1", "科學史特論／科學史", "蔣佳玲", "B327"],
+    ["114-1", "化學專題研究／化學特論", "蔡仁哲", "D325"],
+    ["114-1", "科學課程設計與發展／科學課程設計", "陳世文", "B329"],
+    ["114-1", "自然科教學評量研究／科學教育評量", "鄭立婷", "B229"],
+    ["114-1", "質性科學教育研究法", "蔣佳玲", "B327"],
+    ["114-1", "科學創造力教學策略專題研究", "陳世文", "B329"],
+    ["114-1", "國小自然科學實驗研究特論／國小自然科學實驗研究", "鄭立婷", "D325"],
+    ["114-2", "科學教育研究方法論", "蔣佳玲", "B327"],
+    ["114-2", "科學教育導論", "鄭立婷", "B329"],
+    ["114-2", "科技創作與教學實務特論／科技創作與教學實務", "蔡仁哲", "B327"],
+    ["114-2", "地球科學專題研究／地球科學特論", "蔣佳玲", "D325"],
+    ["114-2", "原住民文化脈絡與科學教學／多元文化科學教育", "鄭立婷", "B329"],
+    ["114-2", "科學教育研究法", "蔡仁哲", "B327"]
+  ];
+  const curriculumLinks = [
+    ["科學教育碩士班修業要點", "M.A. study regulations", sources.maReg],
+    ["科學教育博士班修業要點", "Ph.D. study regulations", sources.phdReg],
+    ["科學教育碩士班課程地圖", "M.A. curriculum map", sources.mapMaster],
+    ["科學教育博士班課程地圖", "Ph.D. curriculum map", sources.mapPhd],
+    ["114-1碩博課表", "114-1 timetable", sources.timetable1141],
+    ["114-2碩博課表", "114-2 timetable", sources.timetable1142],
+    ["115學年度科學教育碩士班招生簡章", "2026 M.A. admission brochure", sources.masterAdmission115]
   ];
   return `${header("curriculum", sources.curriculum, true)}
     <div class="feature-story">
       <div>
-        <span class="section-kicker">${isZh ? "課程不是清單，而是研究路徑" : "Curriculum as a Research Pathway"}</span>
-        <h3>${isZh ? "從基礎研究能力到科學教學創新" : "From research foundations to science teaching innovation"}</h3>
+        <span class="section-kicker">${isZh ? "課程架構" : "Curriculum Structure"}</span>
+        <h3>${isZh ? "科學教育碩士班與博士班" : "Science Education M.A. and Ph.D."}</h3>
         <p>${isZh
-          ? "科學教育的訓練需要同時看見三件事：學生如何學科學、教師如何教科學，以及科學如何進入社會與生活。課程架構因此不只是一張修課表，而是把研究方法、科學學習、課程設計、教師專業、科技媒體與地方文化放在同一條研究路徑上。"
-          : "Science education training connects how students learn science, how teachers teach science, and how science enters society and everyday life."}</p>
+          ? "課程以科學教育研究、自然科教學、課程與教材設計、科技創作、科學史哲、多元文化與在地科學學習為核心，銜接碩博士論文研究與教師專業發展。"
+          : "The curriculum connects science education research, science teaching, curriculum and material design, technology creation, history and philosophy of science, multicultural learning, and thesis research."}</p>
       </div>
       <div class="panel">
-        <h3>${isZh ? "修課邏輯" : "Course Logic"}</h3>
+        <h3>${isZh ? "115學年度招生重點" : "2026 Admission Focus"}</h3>
         ${compactList(isZh
-          ? ["第一層放官方課規與課程地圖。", "第二層用研究主題整理課程群。", "第三層連到師資與所友論文，讓考生知道課程如何轉成研究。"]
-          : ["Start with official course rules and maps.", "Group courses by research themes.", "Connect themes to faculty and alumni theses."])}
+          ? ["招生名額：一般生4名。", "審查方式：資料審查100%，免複試。", "特色：AI在教育上的應用、科學遊戲、教具研發、STEM課程、社會性科學議題及實作導向課程與教學。"]
+          : ["Quota: 4 general-admission places.", "Review: document review 100%; no second-stage interview.", "Focus: AI in education, science games, teaching aids, STEM, SSI, and practice-based curriculum."])}
       </div>
+    </div>
+    <div class="requirement-grid">
+      ${requirementBlocks.map((block) => `<article class="requirement-block">
+        <h3>${block.title}</h3>
+        ${compactList(block.items)}
+      </article>`).join("")}
     </div>
     <div class="grid cols-3">
       ${curriculumThemes.map(([zh, en, body]) => card(isZh ? zh : en, isZh ? body : "", [], "")).join("")}
     </div>
-    ${sectionSubhead(isZh ? "官方課程入口" : "Official Curriculum Links")}
-    <div class="grid cols-2">
-      ${items.map((item) => card(pick(item.title), pick(item.body), item.tags, item.url)).join("")}
+    ${sectionSubhead(isZh ? "114學年度課程摘錄" : "Selected 114 Academic Year Courses")}
+    <div class="course-table-wrap">
+      <table class="course-table">
+        <thead><tr><th>${isZh ? "學期" : "Term"}</th><th>${isZh ? "課程" : "Course"}</th><th>${isZh ? "授課教師" : "Instructor"}</th><th>${isZh ? "教室" : "Room"}</th></tr></thead>
+        <tbody>
+          ${courseRows.map(([term, course, teacher, room]) => `<tr><td>${term}</td><td>${course}</td><td>${teacher}</td><td>${room}</td></tr>`).join("")}
+        </tbody>
+      </table>
+    </div>
+    ${sectionSubhead(isZh ? "課規、課程地圖與課表" : "Regulations, Maps, and Timetables")}
+    <div class="grid cols-3">
+      ${curriculumLinks.map(([zh, en, url]) => card(isZh ? zh : en, isZh ? "直接開啟文件。" : "Open the document directly.", [], url)).join("")}
     </div>
   ${closeSection()}`;
 }
@@ -1939,10 +2055,10 @@ function renderDownloads() {
   const isZh = state.lang.startsWith("zh");
   return `${header("downloads", sources.downloads)}
     <div class="info-band">
-      <h3>${isZh ? "文件區的整理原則" : "Document Area"}</h3>
+      <h3>${isZh ? "常用文件" : "Documents"}</h3>
       <p>${isZh
-        ? "文件下載依「修業規定、招生文件、獎助與助學、專門課程、場地借用」分組。學生找修業要點，考生找簡章，教師與助理找場地規則，都能直接抵達。"
-        : "Documents are best grouped by study rules, admissions, scholarships, endorsement courses, and room use."}</p>
+        ? "修業要點、課程地圖、招生簡章、獎助學金、自然領域加註專長與教室借用規則均直接連到文件。"
+        : "Study regulations, curriculum maps, admission brochure, scholarships, endorsement documents, and room-use rules link directly to the documents."}</p>
     </div>
     <div class="grid cols-3">
       ${downloads.map(([zh, en, url, date]) => `
