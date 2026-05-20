@@ -119,14 +119,19 @@ img {
 .brand-mark {
   display: grid;
   place-items: center;
-  width: 3rem;
-  height: 3rem;
-  color: #fff;
-  background:
-    radial-gradient(circle at 28% 22%, rgba(255, 255, 255, 0.38) 0 18%, transparent 19%),
-    linear-gradient(135deg, var(--leaf), var(--teal));
+  width: 3.15rem;
+  height: 3.15rem;
+  background: #fffaf2;
+  border: 1px solid rgba(130, 101, 73, 0.28);
   border-radius: 50%;
-  font-weight: 800;
+  box-shadow: 0 8px 18px rgba(82, 59, 39, 0.12);
+  overflow: hidden;
+}
+
+.brand-mark img {
+  width: 2.45rem;
+  height: 2.45rem;
+  object-fit: contain;
 }
 
 .brand strong {
@@ -883,6 +888,10 @@ h3 {
 }
 
 .thesis-table td:nth-child(6) {
+  min-width: 20rem;
+}
+
+.advisor-thesis-table td:nth-child(5) {
   min-width: 20rem;
 }
 

@@ -16,10 +16,10 @@ const copy = {
     siteName: "國立東華大學科學教育研究所",
     siteSubname: "科學教育碩士班／博士班",
     language: "語言",
-    updated: "資料檢索日期：2026-05-20",
+    updated: "資料檢核日期：2026-05-21",
     source: "來源",
     readMore: "查看網頁",
-    footer: "科學教育碩士班、博士班與所友資料。",
+    footer: "",
     nav: {
       home: "首頁",
       news: "最新消息",
@@ -67,10 +67,10 @@ const copy = {
     siteName: "NDHU Graduate Institute of Science Education",
     siteSubname: "M.A. and Ph.D. Programs",
     language: "Language",
-    updated: "Data checked: 2026-05-20",
+    updated: "Data checked: 2026-05-21",
     source: "Source",
     readMore: "Open page",
-    footer: "Science Education M.A./Ph.D. programs and alumni records.",
+    footer: "",
     nav: {
       home: "Home",
       news: "News",
@@ -118,10 +118,10 @@ const copy = {
     siteName: "国立東華大学 科学教育研究所",
     siteSubname: "科学教育修士課程・博士課程 多言語サイト",
     language: "言語",
-    updated: "資料確認日：2026-05-20",
+    updated: "資料確認日：2026-05-21",
     source: "出典",
     readMore: "ページを見る",
-    footer: "科学教育修士・博士課程、校友ネットワーク、台湾東部での科学普及実践を紹介します。",
+    footer: "",
     nav: { home: "ホーム", news: "最新情報", admissions: "入試情報", faculty: "教員紹介", students: "学生紹介", features: "特色", curriculum: "カリキュラム", downloads: "資料ダウンロード", events: "活動記録" },
     intros: {
       home: "師資培育中心のニュース、クイックリンク、活動入口の構成を参考に、科学教育向けに再構成しました。",
@@ -141,10 +141,10 @@ const copy = {
     siteName: "国立东华大学科学教育研究所",
     siteSubname: "科学教育硕士班／博士班多语信息站",
     language: "语言",
-    updated: "资料检索日期：2026-05-20",
+    updated: "资料检核日期：2026-05-21",
     source: "来源",
     readMore: "查看网页",
-    footer: "认识科学教育硕士班、博士班、所友网络与东台湾科普实践。",
+    footer: "",
     nav: { home: "首页", news: "最新消息", admissions: "招生信息", faculty: "师资介绍", students: "学生介绍", features: "研究所特色", curriculum: "课程架构", downloads: "文件下载", events: "学会活动记录" },
     intros: {
       home: "参考师资培育中心的公告、快速链接与活动入口结构，转换为科教所可用的多语信息站。",
@@ -164,10 +164,10 @@ const copy = {
     siteName: "Viện Giáo dục Khoa học, NDHU",
     siteSubname: "Trang đa ngôn ngữ cho chương trình thạc sĩ/tiến sĩ",
     language: "Ngôn ngữ",
-    updated: "Dữ liệu kiểm tra: 2026-05-20",
+    updated: "Dữ liệu kiểm tra: 2026-05-21",
     source: "Nguồn",
     readMore: "Xem nguồn",
-    footer: "Tổng hợp từ các trang công khai để giới thiệu chương trình Giáo dục Khoa học của NDHU.",
+    footer: "",
     nav: { home: "Trang chủ", news: "Tin mới", admissions: "Tuyển sinh", faculty: "Giảng viên", students: "Sinh viên", features: "Đặc trưng", curriculum: "Chương trình", downloads: "Tải tài liệu", events: "Hoạt động" },
     intros: {
       home: "Bố cục tham khảo cấu trúc tin tức, liên kết nhanh và hoạt động của Trung tâm Đào tạo giáo viên.",
@@ -187,10 +187,10 @@ const copy = {
     siteName: "สถาบันบัณฑิตศึกษาวิทยาศาสตร์ศึกษา NDHU",
     siteSubname: "เว็บไซต์หลายภาษาสำหรับหลักสูตรปริญญาโท/เอก",
     language: "ภาษา",
-    updated: "ตรวจสอบข้อมูล: 2026-05-20",
+    updated: "ตรวจสอบข้อมูล: 2026-05-21",
     source: "แหล่งที่มา",
     readMore: "ดูแหล่งที่มา",
-    footer: "รวบรวมจากหน้าเว็บสาธารณะเพื่อแนะนำหลักสูตรวิทยาศาสตร์ศึกษาของ NDHU",
+    footer: "",
     nav: { home: "หน้าแรก", news: "ข่าวล่าสุด", admissions: "การรับสมัคร", faculty: "คณาจารย์", students: "นักศึกษา", features: "จุดเด่น", curriculum: "หลักสูตร", downloads: "ดาวน์โหลด", events: "กิจกรรม" },
     intros: {
       home: "โครงสร้างอ้างอิงจากข่าว ลิงก์ด่วน และกิจกรรมของศูนย์ผลิตครู แล้วปรับให้เหมาะกับวิทยาศาสตร์ศึกษา",
@@ -210,10 +210,10 @@ const copy = {
     siteName: "Institut Pendidikan Sains NDHU",
     siteSubname: "Situs multibahasa program magister/doktor",
     language: "Bahasa",
-    updated: "Data diperiksa: 2026-05-20",
+    updated: "Data diperiksa: 2026-05-21",
     source: "Sumber",
     readMore: "Lihat sumber",
-    footer: "Dihimpun dari halaman publik untuk memperkenalkan Pendidikan Sains NDHU.",
+    footer: "",
     nav: { home: "Beranda", news: "Berita", admissions: "Penerimaan", faculty: "Dosen", students: "Mahasiswa", features: "Keunggulan", curriculum: "Kurikulum", downloads: "Unduhan", events: "Kegiatan" },
     intros: {
       home: "Struktur berita, tautan cepat, dan pintu aktivitas diadaptasi dari pusat pendidikan guru untuk situs pendidikan sains.",
@@ -233,10 +233,10 @@ const copy = {
     siteName: "Institut Pendidikan Sains NDHU",
     siteSubname: "Laman pelbagai bahasa untuk program sarjana/sarjana kedoktoran",
     language: "Bahasa",
-    updated: "Data disemak: 2026-05-20",
+    updated: "Data disemak: 2026-05-21",
     source: "Sumber",
     readMore: "Lihat sumber",
-    footer: "Disusun daripada laman awam untuk memperkenalkan Pendidikan Sains NDHU.",
+    footer: "",
     nav: { home: "Utama", news: "Berita", admissions: "Kemasukan", faculty: "Pensyarah", students: "Pelajar", features: "Keistimewaan", curriculum: "Kurikulum", downloads: "Muat turun", events: "Aktiviti" },
     intros: {
       home: "Susun atur berita, pautan pantas dan aktiviti diadaptasi daripada pusat latihan guru untuk laman pendidikan sains.",
@@ -256,10 +256,10 @@ const copy = {
     siteName: "국립동화대학교 과학교육연구소",
     siteSubname: "과학교육 석사/박사과정 다국어 사이트",
     language: "언어",
-    updated: "자료 확인일: 2026-05-20",
+    updated: "자료 확인일: 2026-05-21",
     source: "출처",
     readMore: "출처 보기",
-    footer: "공개 웹 자료를 바탕으로 NDHU 과학교육 과정을 소개합니다.",
+    footer: "",
     nav: { home: "홈", news: "최신 소식", admissions: "입학", faculty: "교원", students: "학생", features: "특색", curriculum: "교육과정", downloads: "자료실", events: "활동 기록" },
     intros: {
       home: "교원양성센터의 뉴스, 빠른 링크, 활동 구조를 참고해 과학교육 사이트로 재구성했습니다.",
@@ -288,6 +288,7 @@ const sources = {
   facultyTsai: "https://dehpd.ndhu.edu.tw/p/404-1101-236318.php?Lang=zh-tw",
   facultyCheng: "https://dehpd.ndhu.edu.tw/p/404-1101-236316.php?Lang=zh-tw",
   facultyChiang: "https://dehpd.ndhu.edu.tw/p/404-1101-236315.php?Lang=zh-tw",
+  facultyLiuMingChou: "https://dehpd.ndhu.edu.tw/p/404-1101-236311.php?Lang=zh-tw",
   rdChen: "https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=11744",
   rdTsai: "https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=13427",
   rdCheng: "https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=13304",
@@ -303,12 +304,8 @@ const sources = {
   cityScience: "https://www.ndhu.edu.tw/p/404-1000-205590.php?Lang=zh-tw",
   facebookGroup: "https://www.facebook.com/groups/302501126476342",
   alumni: "https://dehpd.ndhu.edu.tw/p/406-1101-243958%2Cr6610.php?Lang=zh-tw",
-  legacyFaculty: "https://www1.cdhpd.ndhu.edu.tw/teacher.html",
+  alumniChenWenCheng: "https://wedu.nttu.edu.tw/p/412-1037-12667.php?Lang=zh-tw",
   personnel990201: "https://ws2-sun.ndhu.edu.tw/~person/Chinese%20Web/15.right%20row/01.990201%28990209%29.pdf",
-  oldInstitute: "https://www.sciedu.ndhu.edu.tw/intro01.htm",
-  oldIntro: "https://www.sciedu.ndhu.edu.tw/intro02.htm",
-  studentThesisPage: "https://www.sciedu.ndhu.edu.tw/student05c.htm",
-  legacyThesisCatalog: "https://www.sciedu.ndhu.edu.tw/discourse/discourse.xls",
   ndltdMirror: "https://data.zhupiter.com/search/%E5%9C%8B%E7%AB%8B%E6%9D%B1%E8%8F%AF%E5%A4%A7%E5%AD%B8+%E6%95%99%E8%82%B2%E8%88%87%E6%BD%9B%E8%83%BD%E9%96%8B%E7%99%BC%E5%AD%B8%E7%B3%BB+%E7%A7%91%E5%AD%B8%E6%95%99%E8%82%B2/"
 };
 
@@ -326,6 +323,7 @@ const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => (
   "\"": "&quot;",
   "'": "&#39;"
 })[char]);
+const academicYear = (value) => Number(String(value).match(/\d+/)?.[0] || 0);
 
 const params = new URLSearchParams(location.search);
 const teacherTabs = ["current", "admin", "former", "retired"];
@@ -340,6 +338,23 @@ if (!copy[state.lang]) state.lang = "zh-Hant";
 if (!sections.includes(state.section)) state.section = "home";
 
 const newsItems = [
+  {
+    date: "2026-05-21",
+    category: "所友",
+    title: {
+      "zh-Hant": "陳文正博士任國立臺東大學教育學系助理教授",
+      en: "Dr. Wen-Cheng Chen serves as Assistant Professor at NTTU Department of Education",
+      ja: "陳文正博士、国立台東大学教育学系助理教授",
+      "zh-Hans": "陈文正博士任国立台东大学教育学系助理教授"
+    },
+    summary: {
+      "zh-Hant": "臺東大學教育學系專任師資頁列陳文正博士為助理教授，學歷為國立東華大學課程設計與潛能開發學系科學教育研究所博士。",
+      en: "NTTU's Department of Education lists Dr. Chen as Assistant Professor and notes his Ph.D. from NDHU's Science Education program.",
+      ja: "台東大学教育学系の専任教員ページでは、陳文正博士を助理教授とし、東華大学科学教育研究所博士と記載しています。",
+      "zh-Hans": "台东大学教育学系专任师资页列陈文正博士为助理教授，学历为国立东华大学科学教育研究所博士。"
+    },
+    url: sources.alumniChenWenCheng
+  },
   {
     date: "2026-04-29",
     category: "招生",
@@ -590,6 +605,32 @@ const faculty = {
         "李練婷，108學年度碩士論文：國小四年級學生「系統與尺度」跨科概念之診斷與教學。",
         "利奕達，105學年度碩士論文：花蓮地區高中學生海洋概念之研究。"
       ]
+    },
+    {
+      name: "劉明洲",
+      role: "教授（教育與潛能開發學系）／歷任科教所指導師資",
+      degree: "國立臺灣師範大學工業教育研究所博士",
+      research: {
+        "zh-Hant": "資訊融入教學、資訊教育、網路學習、數位教材開發",
+        en: "Technology integration, information education, online learning, digital materials development"
+      },
+      advisorCount: "11",
+      email: "liu@gms.ndhu.edu.tw",
+      office: "教育學院大樓B407室",
+      phone: "03-8903832",
+      image: "assets/legacy-liu-ming-chou.jpg",
+      url: sources.facultyLiuMingChou,
+      urlLabel: { "zh-Hant": "教師頁", en: "Faculty Page" },
+      highlights: [
+        "東華教育與潛能開發學系專任教師頁列為教授，研究領域為資訊融入教學、資訊教育、網路學習與數位教材開發。",
+        "舊科教所論文目錄中，以劉明洲為指導教授的公開紀錄有11筆；113學年度科教博士班課程資料亦列其任課。"
+      ],
+      selectedTheses: [
+        "吳志恆，88學年度碩士論文：國小學童電腦焦慮之相關因素研究。",
+        "姜禮能，90學年度碩士論文：國小教師對於資訊融入教學之變革關注與相關因素研究。",
+        "余光臨，91學年度碩士論文：資訊融入學校本位主題探索教學之行動研究。",
+        "陳蕙蘭，94學年度碩士論文：網路主題式學習之知能統整歷程研究。"
+      ]
     }
   ],
   admin: [
@@ -628,74 +669,6 @@ const faculty = {
   ],
   former: [
     {
-      name: "劉聖忠",
-      role: "歷任指導師資／助理教授",
-      degree: "美國愛荷華大學科學教育學博士",
-      research: {
-        "zh-Hant": "科學史哲、科學教育、教育研究法、科學教師教學專業發展、環境教育與有機農業",
-        en: "History and philosophy of science, science education, research methods, science teacher professional development, environmental education and organic agriculture"
-      },
-      advisorCount: "43",
-      image: "assets/legacy-liu-sheng-chung.jpg",
-      url: sources.legacyFaculty,
-      urlLabel: { "zh-Hant": "舊系網教師頁", en: "Legacy Faculty Page" },
-      highlights: [
-        "舊版教師頁列為劉聖忠助理教授，專長包含科學史哲、科學教育、教育研究法與科學教師專業發展。",
-        "舊科教所論文目錄中，以劉聖忠為指導教授的公開紀錄有43筆，是早期科教所重要指導師資。"
-      ],
-      selectedTheses: [
-        "汪光懿，87學年度碩士論文：原住民國小學童動物分類概念發展之詮釋性研究。",
-        "鄭淑妃，87學年度碩士論文：國小自然科教師科學本質觀之詮釋性研究。",
-        "江維信，88學年度碩士論文：科學本質課程對師院研究生科學本質觀影響之研究。",
-        "鄭子善，88學年度碩士論文：科學故事課程設計之行動研究--以燃燒現象發展史為例。"
-      ]
-    },
-    {
-      name: "陳龍川",
-      role: "歷任所長／歷任指導師資",
-      degree: "科學教育研究所首任所長，學經歷以公開沿革頁與論文目錄為據",
-      research: {
-        "zh-Hant": "概念改變、電腦模擬、概念生態、幾何思考、網路問題式學習",
-        en: "Conceptual change, computer simulation, conceptual ecology, geometry thinking, web-based problem-based learning"
-      },
-      advisorCount: "10",
-      url: sources.history,
-      urlLabel: { "zh-Hant": "沿革頁", en: "History Page" },
-      highlights: [
-        "官方沿革頁列陳龍川為86.8至88.7首任所長。",
-        "舊科教所論文目錄中，以陳龍川為指導教授的公開紀錄有10筆。"
-      ],
-      selectedTheses: [
-        "陳振威，87學年度碩士論文：學生概念生態組成因子之研究－以密度/浮沈概念為例。",
-        "官翰德，87學年度碩士論文：結合電腦模擬的概念改變教學策略對兒童密度相關概念學習成就之影響。",
-        "葛曉冬，88學年度碩士論文：花蓮地區國小泰雅族學生van Hiele幾何思考層次之調查研究。",
-        "孫鈺凱，90學年度碩士論文：網路問題式學習環境建置與學習行為分析之研究。"
-      ]
-    },
-    {
-      name: "劉明洲",
-      role: "歷任指導師資／副教授",
-      degree: "國立臺灣師範大學工業教育研究所博士",
-      research: {
-        "zh-Hant": "資訊融入教學、資訊教育、網路學習、數位教材開發",
-        en: "Technology integration, information education, online learning, digital materials development"
-      },
-      advisorCount: "11",
-      image: "assets/legacy-liu-ming-chou.jpg",
-      url: sources.legacyFaculty,
-      urlLabel: { "zh-Hant": "舊系網教師頁", en: "Legacy Faculty Page" },
-      highlights: [
-        "舊版教師頁列為劉明洲副教授，專長為資訊融入教學、資訊教育、網路學習與數位教材開發。",
-        "舊科教所論文目錄中，以劉明洲為指導教授的公開紀錄有11筆。"
-      ],
-      selectedTheses: [
-        "吳志恆，88學年度碩士論文：國小學童電腦焦慮之相關因素研究。",
-        "姜禮能，90學年度碩士論文：國小教師對於資訊融入教學之變革關注與相關因素研究。",
-        "余光臨，91學年度碩士論文：資訊融入學校本位主題探索教學之行動研究。",
-        "陳蕙蘭，94學年度碩士論文：網路主題式學習之知能統整歷程研究。"
-      ]
-    },
-    {
       name: "潘宏明",
       role: "歷任指導師資",
       degree: "公開論文目錄列為指導教授",
@@ -704,8 +677,6 @@ const faculty = {
         en: "Mathematics education, Indigenous students' number concepts, geometry concepts, fraction teaching"
       },
       advisorCount: "10",
-      url: sources.legacyThesisCatalog,
-      urlLabel: { "zh-Hant": "論文目錄", en: "Thesis Catalog" },
       highlights: [
         "舊科教所論文目錄中，以潘宏明為指導教授的公開紀錄有10筆。",
         "指導題目集中在泰雅族學生數概念、平面幾何概念、分數教學與國小數學學習。"
@@ -726,8 +697,6 @@ const faculty = {
         en: "Environmental education, life education, sex-health education, local plants, disaster-prevention education"
       },
       advisorCount: "5",
-      url: sources.legacyThesisCatalog,
-      urlLabel: { "zh-Hant": "論文目錄", en: "Thesis Catalog" },
       highlights: [
         "舊科教所論文目錄中，以張惠珠為指導教授的公開紀錄有5筆。",
         "指導題目包含鳥類概念、防震教育、鄉土植物、生命教育與健康教學。"
@@ -748,8 +717,6 @@ const faculty = {
         en: "Environmental education, conservation, outdoor teaching resources, science curriculum materials"
       },
       advisorCount: "4",
-      url: sources.legacyThesisCatalog,
-      urlLabel: { "zh-Hant": "論文目錄", en: "Thesis Catalog" },
       highlights: [
         "舊科教所論文目錄中，以石明卿為指導教授的公開紀錄有4筆。",
         "指導題目集中於野生動物保育、戶外環境教育、自然保育素養與環境教育教材。"
@@ -770,8 +737,6 @@ const faculty = {
         en: "Scientific argumentation, experimental-design ability, teacher professional competence, attitudes toward science"
       },
       advisorCount: "5",
-      url: sources.legacyThesisCatalog,
-      urlLabel: { "zh-Hant": "論文目錄", en: "Thesis Catalog" },
       highlights: [
         "舊科教所論文目錄中，以林煥祥為指導教授的公開紀錄有4筆；東華時期公開論文資料另有共同指導紀錄。",
         "指導題目包含論證能力、設計實驗能力、教師專業能力與科學態度。"
@@ -792,8 +757,7 @@ const faculty = {
         en: "Earth-science concepts, constructivist teaching, nature of science, special teaching resources, Indigenous time concepts"
       },
       advisorCount: "9",
-      url: sources.legacyThesisCatalog,
-      urlLabel: { "zh-Hant": "論文目錄", en: "Thesis Catalog" },
+      advisorNames: ["吳慶軍", "吳德邦", "饒見維", "段曉林", "蔡今中", "李思根", "袁媛"],
       highlights: [
         "舊科教所論文目錄另列吳慶軍2筆，以及吳德邦、饒見維、段曉林、蔡今中、李思根、袁媛等各1筆指導紀錄。",
         "這些紀錄保留共同指導與跨校、跨領域支援的早期科教所樣貌。"
@@ -807,6 +771,51 @@ const faculty = {
     }
   ],
   retired: [
+    {
+      name: "劉聖忠",
+      role: "退休教師／歷任科教所指導師資",
+      degree: "美國愛荷華大學科學教育學博士",
+      research: {
+        "zh-Hant": "科學史哲、科學教育、教育研究法、科學教師教學專業發展、環境教育與有機農業",
+        en: "History and philosophy of science, science education, research methods, science teacher professional development, environmental education and organic agriculture"
+      },
+      advisorCount: "43",
+      retirement: "退休教師（依舊系網與公開論文目錄整理）",
+      image: "assets/legacy-liu-sheng-chung.jpg",
+      highlights: [
+        "舊版教師頁列為劉聖忠助理教授，專長包含科學史哲、科學教育、教育研究法與科學教師專業發展。",
+        "舊科教所論文目錄中，以劉聖忠為指導教授的公開紀錄有43筆，是早期科教所重要指導師資。"
+      ],
+      selectedTheses: [
+        "汪光懿，87學年度碩士論文：原住民國小學童動物分類概念發展之詮釋性研究。",
+        "鄭淑妃，87學年度碩士論文：國小自然科教師科學本質觀之詮釋性研究。",
+        "江維信，88學年度碩士論文：科學本質課程對師院研究生科學本質觀影響之研究。",
+        "鄭子善，88學年度碩士論文：科學故事課程設計之行動研究--以燃燒現象發展史為例。"
+      ]
+    },
+    {
+      name: "陳龍川",
+      role: "退休教師／首任所長／歷任科教所指導師資",
+      degree: "科學教育研究所首任所長，學經歷以公開沿革頁與論文目錄為據",
+      research: {
+        "zh-Hant": "概念改變、電腦模擬、概念生態、幾何思考、網路問題式學習",
+        en: "Conceptual change, computer simulation, conceptual ecology, geometry thinking, web-based problem-based learning"
+      },
+      advisorCount: "10",
+      retirement: "退休教師（依沿革頁與公開論文目錄整理）",
+      url: sources.history,
+      urlLabel: { "zh-Hant": "沿革頁", en: "History Page" },
+      highlights: [
+        "官方沿革頁列陳龍川為86年8月至88年7月首任所長。",
+        "舊科教所論文目錄中，以陳龍川為指導教授的公開紀錄有10筆。"
+      ],
+      selectedTheses: [
+        "陳振威，87學年度碩士論文：學生概念生態組成因子之研究－以密度/浮沈概念為例。",
+        "官翰德，87學年度碩士論文：結合電腦模擬的概念改變教學策略對兒童密度相關概念學習成就之影響。",
+        "葛曉冬，88學年度碩士論文：花蓮地區國小泰雅族學生van Hiele幾何思考層次之調查研究。",
+        "孫鈺凱，90學年度碩士論文：網路問題式學習環境建置與學習行為分析之研究。"
+      ]
+    },
     {
       name: "李暉",
       role: "教授",
@@ -858,9 +867,8 @@ const faculty = {
         "zh-Hant": "生物教育、資訊教育、科學教育",
         en: "Biology education, information education, science education"
       },
-      retirement: "舊科教所公開頁列為早期專任師資",
+      retirement: "早期專任師資（依既有公開資料整理）",
       email: "mjhl@mail.ndhu.edu.tw",
-      url: sources.oldInstitute,
       highlights: [
         "舊科教所早期專任師資與歷任所長之一，研究專長連結生物教育、資訊教育與科學教育。",
         "舊論文目錄顯示其指導主題包含科學玩具、科學創造力、資訊融入自然科、模型分類與教科書內容分析。"
@@ -1132,10 +1140,10 @@ const instituteTimeline = [
     year: "花師時期",
     title: { "zh-Hant": "由數理教育系籌設", en: "From Hualien Teachers College mathematics and science education" },
     body: {
-      "zh-Hant": "本所前身為花蓮師範學院數理教育學系。舊所網記錄，當年由數理教育系陳世輝主任與具科學教育專長的教授群籌設，目標是培育國小自然科師資、促進在職自然科教師專業成長，並培育科學教育研究與行政人才。",
+      "zh-Hant": "本所前身為花蓮師範學院數理教育學系。當年由數理教育系陳世輝主任與具科學教育專長的教授群籌設，目標是培育國小自然科師資、促進在職自然科教師專業成長，並培育科學教育研究與行政人才。",
       en: "The institute grew from the Department of Mathematics and Science Education at Hualien Teachers College, with a mission to prepare elementary science teachers, support in-service teacher growth, and develop research and administrative talent."
     },
-    source: sources.oldIntro
+    source: ""
   },
   {
     year: "1997 / 民86",
@@ -1144,7 +1152,7 @@ const instituteTimeline = [
       "zh-Hant": "民國86年8月獲准成立，當時名為「花蓮師範學院國小科學教育研究所」，以培育國小科學師資、研究人才與行政人才為宗旨。",
       en: "Approved in August 1997 as the Graduate Institute of Elementary Science Education at Hualien Teachers College."
     },
-    source: sources.oldIntro
+    source: ""
   },
   {
     year: "2000-2004",
@@ -1153,7 +1161,7 @@ const instituteTimeline = [
       "zh-Hant": "89學年度招收第一屆暑期教學碩士班，91與93學年度招收週末教學碩士班，回應東部與全臺在職自然科教師的進修需求。",
       en: "The first summer teaching master's cohort began in 2000, followed by weekend teaching master's cohorts in 2002 and 2004."
     },
-    source: sources.oldIntro
+    source: ""
   },
   {
     year: "2004 / 民93",
@@ -1162,7 +1170,7 @@ const instituteTimeline = [
       "zh-Hant": "民國93年8月更名為「科學教育研究所」，招生對象由國小自然科教師擴展到國中與高中科學教師，研究與培育範圍更完整。",
       en: "In August 2004, the institute was renamed and expanded its recruitment from elementary science teachers to junior and senior high school science teachers."
     },
-    source: sources.oldIntro
+    source: ""
   },
   {
     year: "2006 / 民95",
@@ -1363,7 +1371,9 @@ function render() {
   document.getElementById("languageLabel").textContent = c.language;
   document.getElementById("languageSelect").value = state.lang;
   document.getElementById("footerTitle").textContent = c.siteName;
-  document.getElementById("footerText").textContent = c.footer;
+  const footerText = document.getElementById("footerText");
+  footerText.textContent = c.footer || "";
+  footerText.hidden = !c.footer;
   renderNav();
   renderMain();
   updateUrl();
@@ -1383,7 +1393,6 @@ function renderNav() {
     { title: state.lang.startsWith("zh") ? "研究所介紹" : "About", items: ["features"] },
     { title: state.lang.startsWith("zh") ? "招生與課程" : "Admissions & Curriculum", items: ["admissions", "curriculum", "downloads"] },
     { title: state.lang.startsWith("zh") ? "師生與所友" : "People", items: ["faculty", "students"] },
-    { title: t("nav").news, items: ["news"] },
     { title: t("nav").events, items: ["events"] }
   ];
   nav.innerHTML = navGroups.map((group) => {
@@ -1464,11 +1473,9 @@ function compactList(items) {
 function renderHome() {
   const isZh = state.lang.startsWith("zh");
   const mainNews = newsItems.slice(0, 7);
-  const examNews = [
-    newsItems[0],
-    newsItems[4],
-    newsItems[1]
-  ].filter(Boolean);
+  const examNews = newsItems
+    .filter((item) => ["招生", "五年修讀", "甄試"].includes(item.category))
+    .slice(0, 3);
   const activityRows = eventItems.slice(0, 4);
   return `
     <section class="portal-home">
@@ -1606,7 +1613,7 @@ function renderFaculty() {
     : state.teacherTab === "retired"
       ? sources.retired
       : state.teacherTab === "former"
-        ? sources.legacyThesisCatalog
+        ? sources.faculty
         : sources.faculty;
   setTimeout(() => {
     document.querySelectorAll(".tab-button").forEach((button) => {
@@ -1617,13 +1624,14 @@ function renderFaculty() {
     });
   });
   return `${header("faculty", sourceUrl)}
-    ${state.teacherTab === "former" ? `<div class="info-band"><h3>${state.lang.startsWith("zh") ? "整理原則" : "Data Basis"}</h3><p>${state.lang.startsWith("zh") ? "本分頁依舊科教所研究生各屆論文目錄與東華時期公開論文資料整理，列出曾以指導教授身分出現在科教所論文資料中的師資。古智雄、許銘津、李暉已列於退休師資；此處補列劉聖忠、陳龍川等歷任指導師資。" : "This tab is based on the legacy thesis catalog and public NDHU-era thesis metadata. It lists people who appear as thesis advisors in Science Education records."}</p></div>` : ""}
+    ${state.teacherTab === "former" ? `<div class="info-band"><h3>${state.lang.startsWith("zh") ? "整理原則" : "Data Basis"}</h3><p>${state.lang.startsWith("zh") ? "本分頁依舊科教所研究生各屆論文目錄與東華時期公開論文資料整理；現任與退休師資已分列於相應分頁，此處保留其他曾任指導教授或共同指導師資。" : "This tab is based on the legacy thesis catalog and public NDHU-era thesis metadata. Current and retired faculty are listed in their own tabs."}</p></div>` : ""}
     <div class="tabs">
       ${tabs.map(([key, name]) => `<button class="tab-button ${state.teacherTab === key ? "active" : ""}" data-tab="${key}" type="button">${name}</button>`).join("")}
     </div>
     <div class="grid cols-2">
       ${list.map(teacherCard).join("")}
     </div>
+    ${state.teacherTab !== "admin" ? renderAdvisorThesisBlock(list) : ""}
   ${closeSection()}`;
 }
 
@@ -1661,6 +1669,12 @@ function renderStudents() {
   ];
   const alumni = [
     {
+      title: { "zh-Hant": "陳文正博士任臺東大學教育學系助理教授", en: "Dr. Wen-Cheng Chen serves as Assistant Professor at NTTU" },
+      body: { "zh-Hant": "臺東大學教育學系專任師資頁列陳文正博士為助理教授，學歷為國立東華大學課程設計與潛能開發學系科學教育研究所博士，專長包含科學教育、科學探究與論證教學、科學師資培育與混齡教學。", en: "NTTU's Department of Education lists Dr. Chen as Assistant Professor and notes his NDHU Science Education Ph.D." },
+      tags: ["校友", "Ph.D.", "科學教育"],
+      url: sources.alumniChenWenCheng
+    },
+    {
       title: { "zh-Hant": "張慧娟博士榮任東華附小校長", en: "Dr. Hui-Juan Chang appointed principal of NDHU Affiliated Elementary School" },
       body: { "zh-Hant": "教育與潛能開發學系公告祝賀科學教育博士班校友張慧娟博士榮任東華附小校長；公開論文資料亦收錄其博士論文「運用肯定式探詢引領國小師培生自然科教學實習之研究」。", en: "The department publicly congratulated Science Education Ph.D. alumna Dr. Hui-Juan Chang on becoming principal of the NDHU Affiliated Elementary School." },
       tags: ["校友", "Ph.D.", "教育領導"],
@@ -1693,7 +1707,7 @@ function renderStudents() {
       ${alumni.map((item) => card(pick(item.title), pick(item.body), item.tags, item.url)).join("")}
     </div>
     <h3 style="margin:2rem 0 1rem">${isZh ? "公開論文校友資料庫" : "Public Alumni Thesis Database"}</h3>
-    <p class="meta">${isZh ? "資料包含舊科教所研究生各屆論文目錄與國家圖書館臺灣博碩士論文知識加值系統公開資料；呈現公開姓名、年度、指導教授與論文題目，後續若加入校友近況，宜以本人或系辦授權資料為準。" : "Data combines the legacy institute thesis catalog and public National Digital Library of Theses and Dissertations records; alumni updates should use authorized information."}</p>
+    <p class="meta">${isZh ? "表格整理可公開查得之姓名、年度、指導教授與論文題目；花師／花教大時期舊站外連已移除，校友近況則以本人或系辦授權資訊為準。" : "The table lists publicly available names, years, advisors, and thesis titles. Legacy-site links are not used; alumni updates should use authorized information."}</p>
     ${renderAlumniTable(alumniRows)}
   ${closeSection()}`;
 }
@@ -1702,20 +1716,18 @@ function renderAlumniTable(rows) {
   const labels = state.lang.startsWith("zh")
     ? ["時期", "畢業學年", "學位", "姓名", "指導教授", "論文題目", "系所／班別"]
     : ["Era", "Year", "Degree", "Name", "Advisor", "Thesis Title", "Program"];
-  const academicYear = (value) => Number(String(value).match(/\d+/)?.[0] || 0);
   const visibleRows = rows
     .slice()
     .sort((a, b) => academicYear(b.gradTerm) - academicYear(a.gradTerm) || String(b.gradTerm).localeCompare(String(a.gradTerm), "zh-Hant"))
     .map((row) => {
-      const href = row.url || (row.era.includes("花師") ? sources.legacyThesisCatalog : sources.ndltdMirror);
-      const title = `<a href="${href}" target="_blank" rel="noreferrer">${escapeHtml(row.title)}</a>`;
+      const title = renderThesisTitle(row);
       return `<tr>
         <td>${escapeHtml(row.era)}</td>
         <td>${escapeHtml(row.gradTerm)}</td>
         <td>${escapeHtml(row.degree)}</td>
         <td>${escapeHtml(row.name)}</td>
         <td>${escapeHtml(row.advisor)}</td>
-        <td>${title}<span>${escapeHtml(row.source || row.school || "")}</span></td>
+        <td>${title}</td>
         <td>${escapeHtml(row.program)}</td>
       </tr>`;
     })
@@ -1728,6 +1740,57 @@ function renderAlumniTable(rows) {
       <tbody>${visibleRows}</tbody>
     </table>
   </div>`;
+}
+
+function renderThesisTitle(row) {
+  const href = row.url || (String(row.era).includes("花師") ? "" : sources.ndltdMirror);
+  if (!href) return escapeHtml(row.title);
+  return `<a href="${href}" target="_blank" rel="noreferrer">${escapeHtml(row.title)}</a>`;
+}
+
+function thesisRowsForPeople(people) {
+  const allRows = [...recentAlumniTheses, ...(window.legacyAlumniTheses || [])];
+  const names = people.flatMap((person) => person.advisorNames || [person.name]).filter(Boolean);
+  const seen = new Set();
+  return allRows
+    .filter((row) => names.some((name) => String(row.advisor || "").includes(name)))
+    .filter((row) => {
+      const key = `${row.name}|${row.gradTerm}|${row.advisor}|${row.title}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => academicYear(b.gradTerm) - academicYear(a.gradTerm) || String(a.name).localeCompare(String(b.name), "zh-Hant"));
+}
+
+function renderAdvisorThesisBlock(people) {
+  const isZh = state.lang.startsWith("zh");
+  const rows = thesisRowsForPeople(people);
+  if (!rows.length) return "";
+  const labels = isZh
+    ? ["指導教授", "畢業學年", "學位", "姓名", "論文題目", "資料時期"]
+    : ["Advisor", "Year", "Degree", "Name", "Thesis Title", "Era"];
+  const visibleRows = rows.map((row) => {
+    const title = renderThesisTitle(row);
+    return `<tr>
+      <td>${escapeHtml(row.advisor)}</td>
+      <td>${escapeHtml(row.gradTerm)}</td>
+      <td>${escapeHtml(row.degree)}</td>
+      <td>${escapeHtml(row.name)}</td>
+      <td>${title}</td>
+      <td>${escapeHtml(row.era)}</td>
+    </tr>`;
+  }).join("");
+  return `
+    ${sectionSubhead(isZh ? "指導學生與論文" : "Supervised Students and Theses", isZh ? "依既有論文資料彙整；共同指導論文會保留完整指導教授欄位。花師／花教大時期舊站連結已移除，內容直接整理於本頁。" : "Compiled from available thesis records. Co-advised theses retain the full advisor field; legacy-site links are not used.")}
+    <div class="thesis-table-wrap advisor-thesis-table" tabindex="0">
+      <table class="thesis-table">
+        <thead>
+          <tr>${labels.map((item) => `<th>${item}</th>`).join("")}</tr>
+        </thead>
+        <tbody>${visibleRows}</tbody>
+      </table>
+    </div>`;
 }
 
 function renderFeatures() {
@@ -1756,7 +1819,7 @@ function renderFeatures() {
         <span class="section-kicker">${isZh ? "創立背景" : "Founding Background"}</span>
         <h3>${isZh ? "從自然科師資培育開始，走向完整的科學教育研究" : "From science teacher preparation to full research training"}</h3>
         <p>${isZh
-          ? "舊所網記錄，本所由花蓮師範學院數理教育系籌設。設立目的包括培育國小自然科師資、促進在職教師專業成長，並培養科學教育研究與行政人才。"
+          ? "既有沿革資料顯示，本所由花蓮師範學院數理教育系籌設。設立目的包括培育國小自然科師資、促進在職教師專業成長，並培養科學教育研究與行政人才。"
           : "The legacy record states that the institute grew from the Department of Mathematics and Science Education, with teacher preparation, in-service teacher growth, research, and educational administration as its early missions."}</p>
       </div>
       <div class="panel">
@@ -1777,7 +1840,7 @@ function renderFeatures() {
           <div>
             <h3>${pick(item.title)}</h3>
             <p>${pick(item.body)}</p>
-            <a href="${item.source}" target="_blank" rel="noreferrer">${t("readMore")}</a>
+            ${item.source ? `<a href="${item.source}" target="_blank" rel="noreferrer">${t("readMore")}</a>` : ""}
           </div>
         </article>
       `).join("")}
@@ -1996,6 +2059,10 @@ function teacherCard(person) {
     </div>`;
   };
   const isZh = state.lang.startsWith("zh");
+  const actionLinks = [
+    person.url ? `<a href="${person.url}" target="_blank" rel="noreferrer">${person.urlLabel ? pick(person.urlLabel) : (isZh ? "教師頁" : "Faculty Page")}</a>` : "",
+    person.rdUrl ? `<a href="${person.rdUrl}" target="_blank" rel="noreferrer">${isZh ? "完整著作與計畫" : "Full Research Profile"}</a>` : ""
+  ].filter(Boolean);
   return `
     <article class="teacher">
       <div class="teacher-head">
@@ -2016,10 +2083,7 @@ function teacherCard(person) {
       ${renderList(isZh ? "著作／研究成果" : "Publications and Research", person.selectedPublications)}
       ${renderList(isZh ? "研究計畫與科普實作" : "Projects and Outreach", person.selectedProjects)}
       ${renderList(isZh ? "指導論文例" : "Selected Supervised Theses", person.selectedTheses)}
-      <p class="teacher-actions">
-        <a href="${person.url}" target="_blank" rel="noreferrer">${person.urlLabel ? pick(person.urlLabel) : (isZh ? "教師頁" : "Faculty Page")}</a>
-        ${person.rdUrl ? `<a href="${person.rdUrl}" target="_blank" rel="noreferrer">${isZh ? "完整著作與計畫" : "Full Research Profile"}</a>` : ""}
-      </p>
+      ${actionLinks.length ? `<p class="teacher-actions">${actionLinks.join("")}</p>` : ""}
     </article>
   `;
 }
