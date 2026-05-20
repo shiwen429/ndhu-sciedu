@@ -303,6 +303,8 @@ const sources = {
   naturalCreditCompare: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/1090720SCE(1).docx",
   naturalCreditFramework: "https://dehpd.ndhu.edu.tw/var/file/101/1101/img/1130828.pdf",
   roomD325: "https://dehpd.ndhu.edu.tw/p/406-1101-242712,r6660.php?Lang=zh-tw",
+  aset2026: "https://aset2026.com/",
+  asera2026: "https://www.asera.org.au/2026-conference/",
   phdQuota: "https://exam.ndhu.edu.tw/p/404-1104-257006.php?Lang=zh-tw",
   recommender: "https://dehpd.ndhu.edu.tw/p/406-1101-248709%2Cr6616.php?Lang=zh-tw",
   fiveYear: "https://dehpd.ndhu.edu.tw/p/406-1101-256575%2Cr6606.php?Lang=zh-tw",
@@ -342,6 +344,60 @@ if (!copy[state.lang]) state.lang = "zh-Hant";
 if (!sections.includes(state.section)) state.section = "home";
 
 const newsItems = [
+  {
+    date: "2026-12-03",
+    category: "研討會",
+    title: {
+      "zh-Hant": "2026第42屆科學教育國際研討會",
+      en: "2026 International Conference of Science Education in Taiwan",
+      ja: "2026年第42回台湾科学教育国際会議",
+      "zh-Hans": "2026第42届科学教育国际研讨会",
+      vi: "Hội nghị Quốc tế Giáo dục Khoa học tại Đài Loan 2026",
+      th: "การประชุมวิทยาศาสตร์ศึกษานานาชาติไต้หวัน 2026",
+      ko: "2026 제42회 대만 과학교육 국제학술대회",
+      id: "Konferensi Internasional Pendidikan Sains Taiwan 2026",
+      ms: "Persidangan Antarabangsa Pendidikan Sains Taiwan 2026"
+    },
+    summary: {
+      "zh-Hant": "會議以「Science Education for All: 邁向共融公義之路」為主題，2026年12月3日至12月6日於國立臺灣師範大學公館校區舉行，論文投稿至2026年8月20日。",
+      en: "The conference theme is “Science Education for All: Toward Diversity, Equity, Inclusion, and Public Accessibility.” It will be held at NTNU Gongguan Campus from Dec. 3 to Dec. 6, 2026. Paper submission closes on Aug. 20, 2026.",
+      ja: "テーマは「Science Education for All」。2026年12月3日から12月6日まで国立台湾師範大学公館キャンパスで開催され、投稿締切は2026年8月20日です。",
+      "zh-Hans": "会议以“Science Education for All: 迈向共融公义之路”为主题，2026年12月3日至12月6日在国立台湾师范大学公馆校区举行，论文投稿至2026年8月20日。",
+      vi: "Chủ đề là “Science Education for All”; hội nghị diễn ra tại cơ sở Gongguan của NTNU từ 3 đến 6/12/2026, hạn nộp bài là 20/8/2026.",
+      th: "หัวข้อคือ “Science Education for All” จัดที่วิทยาเขต Gongguan ของ NTNU วันที่ 3-6 ธ.ค. 2026 กำหนดส่งบทความ 20 ส.ค. 2026",
+      ko: "주제는 “Science Education for All”이며, 2026년 12월 3-6일 국립대만사범대학 공관캠퍼스에서 열립니다. 논문 제출 마감은 2026년 8월 20일입니다.",
+      id: "Bertema “Science Education for All”, konferensi berlangsung di Kampus Gongguan NTNU pada 3-6 Desember 2026. Batas pengiriman makalah 20 Agustus 2026.",
+      ms: "Bertema “Science Education for All”, persidangan berlangsung di Kampus Gongguan NTNU pada 3-6 Disember 2026. Tarikh akhir penghantaran kertas kerja ialah 20 Ogos 2026."
+    },
+    url: sources.aset2026
+  },
+  {
+    date: "2026-06-30",
+    category: "國際研討會",
+    title: {
+      "zh-Hant": "ASERA57 2026年科學教育研究研討會",
+      en: "ASERA57 2026 Conference",
+      ja: "ASERA57 2026年会議",
+      "zh-Hans": "ASERA57 2026年科学教育研究研讨会",
+      vi: "Hội nghị ASERA57 năm 2026",
+      th: "การประชุม ASERA57 ปี 2026",
+      ko: "ASERA57 2026 학술대회",
+      id: "Konferensi ASERA57 2026",
+      ms: "Persidangan ASERA57 2026"
+    },
+    summary: {
+      "zh-Hant": "第57屆Australasian Science Education Research Association年會將於2026年6月30日至7月3日在澳洲布里斯本舉行，由昆士蘭科技大學主辦；標準報名至2026年6月5日。",
+      en: "The 57th Annual Conference of the Australasian Science Education Research Association will be held in Brisbane, Australia from June 30 to July 3, 2026, hosted by Queensland University of Technology. Standard registration closes on June 5, 2026.",
+      ja: "第57回ASERA年会は2026年6月30日から7月3日までオーストラリア・ブリスベンで開催され、Queensland University of Technologyがホスト校です。通常登録締切は2026年6月5日です。",
+      "zh-Hans": "第57届Australasian Science Education Research Association年会将于2026年6月30日至7月3日在澳洲布里斯本举行，由昆士兰科技大学主办；标准报名至2026年6月5日。",
+      vi: "Hội nghị thường niên ASERA lần thứ 57 diễn ra tại Brisbane, Úc từ 30/6 đến 3/7/2026, do Queensland University of Technology đăng cai; hạn đăng ký tiêu chuẩn là 5/6/2026.",
+      th: "การประชุมประจำปี ASERA ครั้งที่ 57 จัดที่บริสเบน ออสเตรเลีย วันที่ 30 มิ.ย.-3 ก.ค. 2026 โดย Queensland University of Technology หมดเขตลงทะเบียนทั่วไป 5 มิ.ย. 2026",
+      ko: "제57회 ASERA 연례 학술대회는 2026년 6월 30일부터 7월 3일까지 호주 브리즈번에서 열리며 Queensland University of Technology가 주관합니다. 일반 등록 마감은 2026년 6월 5일입니다.",
+      id: "Konferensi tahunan ASERA ke-57 akan berlangsung di Brisbane, Australia pada 30 Juni-3 Juli 2026, diselenggarakan oleh Queensland University of Technology. Registrasi standar ditutup 5 Juni 2026.",
+      ms: "Persidangan tahunan ASERA ke-57 berlangsung di Brisbane, Australia pada 30 Jun-3 Julai 2026, dianjurkan oleh Queensland University of Technology. Pendaftaran standard ditutup pada 5 Jun 2026."
+    },
+    url: sources.asera2026
+  },
   {
     date: "2026-04-29",
     category: "招生",
